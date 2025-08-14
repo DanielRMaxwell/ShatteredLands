@@ -1,0 +1,127 @@
+rejected spells/skills
+ 
+
+Rejected, no use and would increase zones to be created beyond acceptable numbers
+
+ Planar Quest (Alteration) 
+Sphere: Astral
+Range: Touch
+Duration: Special
+Casting Time: 5 rounds
+Area of Effect: Special
+Saving Throw: Neg.
+By joining hands with as many as 12 companions and casting this spell, the priest 
+transports his party to any other plane of existence. The priest and his party may arrive at 
+a specific location in a plane (if one is known) or at an unknown destination. Travel time 
+to the destination, whether known or unknown, will always be at the minimum possible. 
+In an inner plane, a friendly guide will always be available to the priest. Hostile 
+encounters occur at one-fifth normal frequency.
+Unwilling creatures are allowed a saving throw at a -4 penalty to avoid being 
+transported.
+In the inner planes, the party is magically protected in any means necessary for 
+survival. The party does not need to eat, drink, or rest if conditions make these activities 
+impossible. Party members are immune to fire in the elemental plane of fire, and similar 
+immunities are granted by the Power in other planes as necessary. The party can move 
+through any terrain (including the elemental plane of Earth) at its normal movement rate.
+In the outer planes, similar immunities apply. The priest is also granted a power 
+compass (described in Manual of the Plane). Hostile encounters in an outer plane occur 
+only half as often as normal.
+The duration of this spell is decided by the Power who grants it. Normally, it is 
+sufficient to allow the priest and his party to undertake the quest that the Power has set 
+forth. When the quest has been completed successfully or has failed beyond recovery, the 
+priest and his party are returned to the Prime Material plane. 
+
+Rejected no use for spell
+
+ 
+ Mindnet (Divination, Enchantment/Charm) 
+Sphere: Thought
+Range: 0
+Duration: 12 turns
+Casting Time: Special
+Area of Effect: Special
+Saving Throw: Special
+The priest casting a mindnet spell establishes a telepathic link with as many as 10 
+other creatures who may be separated from each other by as much as 10 miles. Thus, a 
+chain of creatures 100 miles long could be established.
+The Power granting this spell has the final word on the individuals who may be 
+included in the spell. Most commonly, the spell will be cast to include individuals 
+familiar to the caster. However, depending on the purpose of the spell, the Power may 
+allow a stranger known to the caster only by name to be included in the mindnet.
+Unwilling creatures must make a saving throw at a -4 penalty to avoid being included 
+in the mindnet.
+Casting the spell requires one round per two creatures in the mindnet. The spell's duration 
+begins after all affected creatures have been linked. Characters of any class may take part 
+in this linkage, benefiting from several effects.
+First, each member of the mindnet benefits from Intelligence, Wisdom, and Dexterity 
+bonuses. The bonuses are equal to the bonuses held by the member of the mindnet with 
+the highest ability score. For example, if five creatures in a mindnet have Wisdom scores 
+of 15, 15, 16, 17, and 18, each creature would make saving throws, ability checks, and 
+the like as if he had a Wisdom score of 18. Bonus spells are not gained due to enhanced 
+Wisdom, however.
+Second, spells may be pooled among the spellcasters within the mindnet. Any priest 
+may use a spell memorized by another priest with two conditions: the priest who has 
+memorized the spell must allow its use; and a priest "borrowing" a spell may use only 
+spells of levels he could normally cast. Such borrowing still causes the spell to be lost 
+from the mind of the caster who memorized it. A caster may not borrow spells outside his 
+normal class restrictions. Priests and wizards within a mindnet cannot mix their priestly 
+and wizardly spells, nor can a specialist borrow a spell from an opposition school.
+Third, each member of the mindnet is in constant mental communication. Each 
+member knows what is happening at the locations of all other members.
+Finally, twice per turn, the priest casting this spell can instantly teleport any person 
+linked by the mindnet to any other person who is also a part of the spell. This massive 
+effort results in a +4 penalty to any Constitution checks made by the priest.
+The priest casting the spell cannot perform any other actions while the mindnet exists; 
+if he does, the spell is canceled. The priest must make a Constitution check at the end of 
+each turn in order to sustain the spell. A failed check cancels the mindnet. The spell can 
+last a maximum of 12 turns. 
+
+ Rejected pending review
+
+
+ Spiral of Degeneration (Enchantment/Charm, Invocation) 
+Sphere: Chaos, Thought
+Range: 0
+Duration: 6 turns
+Casting Time: 1 round
+Area of Effect: 50-foot-diameter sphere
+Saving Throw: Special
+This potent spell affects all creatures hostile to the priest within the area of effect. The 
+Power granting the spell causes the spell's effects to manifest in one of two ways: the 
+Chaos variation or the Thought variation.
+In the Chaos variation, the fabric of reality is altered to change events. Magical items 
+dysfunction because the fabric of magical reality is changed.
+In the Thought variation, the thoughts of the victims of the spell are distorted and 
+altered so that they find themselves unable to function coherently and effectively. 
+Magical items dysfunction because the thoughts of their users are warped to either 
+convince them that the items cannot function or block thought so that proper commands 
+cannot be given.
+The effects on the victims of the spell are the same for both variations. Each round, 
+there is a 50% chance that a degeneration effect will occur in the area of effect. When this 
+occurs, two events take place. First, spellcasters lose one spell from each level of spell 
+currently memorized (e.g., a spellcaster who has memorized three spells each from levels 
+1 through 3 loses one spell from each level for a total of three). Lost spells may be 
+regained normally through rest and memorization.
+Second, magical items are affected in the following ways:
+•Weapons and armor lose one level of enchantment (a sword +3 becomes a sword 
++2, etc.).
+•Magical items that carry charges (wands, rods, staves, etc.) are drained of 1d10 
+charges.
+•Magical items without pluses or charges must make a saving throw versus spell 
+(using the saving throw of their owner) or become nonmagical.
+•Potions lose all magic and scrolls lose one randomly determined spell.
+•Permanent magical items (swords, boots, armor, etc.) temporarily lose all effects 
+until the spell expires or until the items leave the area of effect and for 1d10 rounds 
+thereafter.
+Single-use and charged items are permanently affected by this spell. A potion 
+destroyed by this spell remains useless even after the spell ends.
+Within the area of effect, magical communication is impossible due to thought blocks 
+and chaotic effects. No communication magic (ESP, sending, etc.) will function; any 
+spellcaster trying to cast such a spell will be stunned for 1 round per level of the spell he 
+attempts to cast. A reverse of the tongues spell operates continuously in the area of effect. 
+Telepathic communication (e.g., with a familiar) is also impossible.
+In the Chaos variation of the spell, the center of the area of effect moves 10' per 
+round. The direction is randomly determined using 1d8 roll and compass points (1N, 
+2NE, 3E, 4SE, 5S, 6SW, 7W, 8NW). The radius of the spell effect will never exclude the 
+priest who cast the spell; re-roll any result that leads to this occurrence. 
+

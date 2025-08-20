@@ -85,6 +85,59 @@ Only magical items can be brought into the Astral Plane. As the Astral Plane tou
 travel astrally anywhere in the Prime Material Plane by means of the astral spell, but a
 second body cannot be formed in the Prime Material Plane. As a general rule, a person astrally projected can be seen only by creatures in the Astral Plane. At all times, the astral body is connected to the material body by a soul cord. If the cord is broken, the cord simply returns to the original body where it rests in the Prime Material Plane, reviving it from its state of suspended animation. Although astrally projected persons are able to function in the Astral Plane, their actions do not affect creatures not existing in the Astral Plane. Any magical items can go into the Astral Plane, but most become temporarily nonmagical therein, or in any planes removed from the Prime Material Plane. Artifacts and relics function anywhere. Items drawing their power from a given plane are more powerful in that plane.
 
+ Name: Chain Contingency
+School\Sphere: Arcane
+Tier: 9 
+Range: Caster 
+Components: [Chain Contingency] V , [Varies] S , [The material components are (in addition to those of the companion spells) 500 gp worth of quicksilver; a gem of at least 1,000 gp value; an eyelash from an ogre mage, kirin, or similar spell-using creature; and an ivory statuette of the caster (which is not 
+destroyed in the casting of the spell) which must be carried by the spellcaster in order for 
+the chain contingency to perform its function when triggered.] M 
+Duration: 7 Days 
+Casting Time: 2 minutes
+Area of Effect: The caster
+Effects of Spell: Chain contingency must be cast together with the spells it is to trigger. The caster 
+ may choose either two spells to occur simultaneously or three spells to occur 
+ consecutively, one per second. Spells must be of 8th tier or lower. Only the 6th-tier 
+ contingency spell may not be included. The casting time of 2 minutes includes the casting of 
+ the spells to be triggered.  
+Saving Throw: None
+Subtlety: None
+Knockdown: None
+Sensory: None 
+Critical: None
+Description: This powerful spell is similar to the 6th-tier contingency spell. 
+ Chain contingency allows the caster to designate either two or three spells that will 
+ take effect automatically under a specific set of conditions. In other words, when a set of 
+ conditions is met, the designated spells are "cast" immediately without the caster's 
+ intervention. Unlike the contingency spell, spells "stored" in chain contingency can affect creatures 
+ other than the caster. These instructions must be carefully worded; the spell obeys the 
+ letter of its instructions and not the caster's intentions.
+ In casting chain contingency, the caster defines the conditions that will trigger the 
+ "stored" spells. This definition must be carefully worded, but may be as limiting or 
+ general as the caster desires. The caster also states the exact order, target, range, and 
+ manner in which the stored spells are to be cast.
+ The spell has several limitations in triggering its spells. It does not have any powers 
+ of discernment; thus, an instruction to "target the highest-level enemy" is not possible. 
+ Furthermore, the conditions cannot involve a delay; a spell cannot be ordered to trigger 
+ "three turns after I sneeze."
+ When the named conditions are met, the chain contingency is automatically triggered. 
+ If all specifics of casting a spell are not specified (e.g., target or area of effect), the effect 
+ is automatically centered on the caster.
+ Possible triggers might include a fall from a distance greater than the caster's height, 
+ the appearance of the first beholder within 10 meters of the caster, or the wizard pointing his 
+ finger and pronouncing a specified word.
+ Only one chain contingency can be placed on the spellcaster at any one time. If a 
+ second is cast, the first chain contingency is cancelled. It is possible to have both a 
+ contingency and a chain contingency operating at the same time, provided that there is no 
+ overlap in the conditions specified for triggering the two spells.
+ Spells triggered by the chain contingency have a casting time of 1. If the spell is 
+ triggered under conditions that are impossible to fulfill, it fails. If one of the spells in a 
+ series cannot be fulfilled, the remaining spells in the series are lost. Normal conditions, 
+ including line of sight to the target, must be fulfilled. All spells originate from the caster; 
+ thus, it is not possible for a caster to teleport and leave behind a series of fireballs to blast 
+ his enemies. In this case, the fireballs would either fail or destroy something at the 
+ caster's destination.
+ 
  Name: Circle of Sunmotes
 School\Sphere: Fire
 Tier:  9
@@ -130,11 +183,9 @@ Subtlety: None
 Knockdown: None
 Sensory:  None
 Critical: None
-Description: The conformance spell has a simple principle with a profound effect: probable events 
-always manifest. There are two conditions that affect this spell. First, a prayer spell is continuously 
-operative in the area of effect, shifting the balance of combat probabilities toward the 
-favor of the priest who casts this spell and his companions. Second, probabilities of 
-exactly 50% always shift in favor of the spellcasting priest. This spell is particularly potent if bless and chant spells are cast in the area of effect.
+Description: The conformance spell has a simple principle with a profound effect: probable events always manifest. There are two conditions that affect this spell. First, a prayer spell is  
+ continuously operative in the area of effect, shifting the balance of combat probabilities toward the favor of the priest who casts this spell and his companions. Second, probabilities of 
+ exactly 50% always shift in favor of the spellcasting priest. This spell is particularly potent if bless and chant spells are cast in the area of effect.
 
  Name: Crushing Hand
 School\Sphere: Arcane
@@ -147,16 +198,65 @@ Area of Effect: Target
 Effects of Spell:  The damage inflicted depends on the number of seconds it acts upon the victim:
  1st second 10 points
  2nd & 3rd seconds 20 points
- 4th second & beyond 40 points
-  
+ 4th second & beyond 40 points  
 Saving Throw: None
 Subtlety: None
 Knockdown: None
 Sensory: None 
 Critical: None
-Description: The Crushing Hand spell creates a huge, disembodied hand. The crushing hand is under the mental control of the caster, and he can cause it to grasp and squeeze an opponent. No attack roll is necessary; the hand automatically grasps and inflicts constriction damage on the target. The crushing hand has an Armor class of 0, has as many hit points as its caster at full strength, and vanishes when destroyed. The hand is susceptible to normal combat attacks and damaging spells, but if it is struck by an area-effect spell, the person held suffers the
-same fate as the hand (i.e., if the hand fails its saving throw, the victim automatically fails
-his). The hand is not effective against noncorporeal or gaseous forms, but it does prevent creatures that are able to slip through small cracks from escaping. If the hand grasps an item or construction, the appropriate saving throw must be made as if squeezed by a Strength of 25.
+Description: The Crushing Hand spell creates a huge, disembodied hand. The crushing hand is under the mental control of the caster, and he can cause it to grasp and squeeze an opponent.
+ No  attack roll is necessary; the hand automatically grasps and inflicts constriction damage on the target. The crushing hand has an Armor class of 0, has as many hit points as its caster 
+ at full strength, and vanishes when destroyed. The hand is susceptible to normal combat attacks and damaging spells, but if it is struck by an area-effect spell, the person held suffers  
+ the same fate as the hand (i.e., if the hand fails its saving throw, the victim automatically fails
+ his). The hand is not effective against noncorporeal or gaseous forms, but it does prevent creatures that are able to slip through small cracks from escaping. If the hand grasps an item  
+ or construction, the appropriate saving throw must be made as if squeezed by a Strength of 25.
+
+ Name: Crystalbrittle
+School\Sphere: Arcane
+Tier: 9 
+Range: Touch 
+Components: [is always Spell Name] V , [Varies] S , [Varies] M 
+Duration: Permanent 
+Casting Time: 9 seconds
+Area of Effect: 2 cubic meters
+Effects of Spell: The magic of this spell causes metal, whether as soft as gold or as hard as adamantite, to turn to a     
+ crystalline substance as brittle and fragile as crystal.  
+Saving Throw: 
+Subtlety: 
+Knockdown: 
+Sensory:  
+Critical: 
+Description: The magic of this spell causes metal, whether as soft as gold or as hard as adamantite,
+ to turn to a crystalline substance as brittle and fragile as crystal. Thus, a sword, metal
+ shield, metal armor, or even an iron golem can be changed to a delicate, glasslike
+ material easily shattered by any forceful blow. Furthermore, this change is unalterable by
+ any means short of a wish spell; a dispel magic will not reverse the spell.
+ The caster must physically touch the item; if it is an opponent or something an
+ opponent is using or wearing, the caster must get into melee and make a successful
+ attack roll. Any single metal item can be affected by the spell. Thus, a suit of armor worn
+ by a creature can be changed to crystal, but the creature's shield would not be affected,
+ and vice versa. Affected items not immediately protected are shattered and permanently destroyed if struck by a     
+ normal blow from a metal tool or any weighty weapon, including a staff.
+
+ Name: Energy Drain 
+School\Sphere: Necrotic
+Tier: 9 
+Range: Touch 
+Components: [Energy Drain] V , [Varies] S , [essence of spectre or vampire dust] M 
+Duration: Permanent 
+Casting Time: 3 Seconds
+Area of Effect: 1 Target
+Effects of Spell:  As soon as he touches (equal to a hit if melee is involved) any living creature, the victim loses two points from their Constitution score, if the target is drained to
+ zero constitution they die. 
+Saving Throw: None
+Subtlety: None
+Knockdown: None
+Sensory: None 
+Critical: None
+Description: By casting this spell, the caster opens a channel between the plane he is in and the
+ Necrotic plane, becoming the conductor between the two planes. Humans or humanoids brought
+ below zero energy levels by this spell can be animated as juju zombies under the control
+ of the caster. 
 
  Name: Greater Health Blessing 
 School\Sphere: Divine
@@ -173,6 +273,49 @@ Knockdown: None
 Sensory:  None
 Critical: None
 Description: Greater Health Blessing provides a number of human, demi-human, or humanoid creatures with protection against ill health; it also enables subjects to heal others.
+
+ Name: Elemental Aura
+School\Sphere: Same school as the aura created(Air, Fire, Water, Earth)
+Tier: 9 
+Range: Caster 
+Components: [Elemental Aura] V , [Varies] S , [Symbol of element the aura is for] M 
+Duration: 9 hours 
+Casting Time: 10 Seconds
+Area of Effect: The Caster
+Effects of Spell:  The auras have these effects: 
+Air
+ • immunity to gas and air-based attacks 
+ • total protection from physical attacks by creatures of the elemental plane of Air 
+ • ability to cast fly and protection from normal missiles once each 
+Earth
+ • immunity to attacks from nonmagical weapons made of stone or metal 
+ • immunity to physical attacks by creatures of the elemental plane of Earth 
+ • ability to breathe and move at full movement rate within the element of earth 
+ • ability to cast wall of stone once 
+Fire
+ • immunity to normal and magical fire 
+ • total protection from physical attacks by creatures of the elemental plane of Fire 
+ • ability to breathe and move at full movement rate within the element of fire 
+ • total protection from hostile environmental effects while traveling plane of Fire 
+ • ability to cast wall of fire once 
+Water
+ • immunity to water- and cold-based attacks 
+ • total protection from physical attacks by creatures of the plane of Water 
+ • ability to breathe and move at full movement rate within the element of water 
+ • ability to cast wall of ice once 
+Saving Throw: None
+Subtlety: None
+Knockdown: None
+Sensory: None 
+Critical: None
+Description: This spell has four very different effects depending on the type (air, earth, fire, water) 
+ of elemental aura cast. Only the caster may receive an elemental aura, and it is not 
+ possible to benefit from more than one aura at one time, the Caster must have access to the school\sphere for the   
+ element they wish to create an aura for. Each aura is three inches thick and covers the caster's entire body. An aura  
+ of air is hazy white in color, an aura of earth is dull grey, an aura of fire is flickering red, and an 
+ aura of water is shimmering blue. The auras do not restrict the caster in any way. He is free to move and act  
+ normally 
+ while under the influence of an aura. 
 
  Name: Implosion/Inversion
 School\Sphere: Arcane

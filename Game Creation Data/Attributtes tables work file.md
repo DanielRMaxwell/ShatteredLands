@@ -2034,7 +2034,7 @@ Character Creation Rules
 
   ```
 
-  122 Build points available
+  125 Build points available
 
   ```
 

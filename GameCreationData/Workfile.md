@@ -78,9 +78,9 @@ Spell Types   | Generic Description of Type
 
  Name:
 
-Spell School: 
+Spell School:
 
-Spell Type:
+Spell Type: Offensive
 
 Tier/Mana Cost:
 
@@ -108,6 +108,68 @@ Description:
 
 
 
+ Name:
+
+Spell School:
+
+Spell Type: Defensive
+
+Tier/Mana Cost:
+
+Range:
+
+Components: \[is always Spell Name] V , \[Varies] M
+
+Duration:
+
+Casting Time:
+
+Area of Effect:
+
+Effects of Spell:
+
+                :: Friendly Effects :
+
+                :: Hostile Effects :
+
+Magic Resistance/Penetration Modifier:
+
+Prerequisites: (attribute scores, tiers, or other conditions required to be met before spell can be learned)
+
+Description:
+
+
+
+ Name:
+
+Spell School:
+
+Spell Type: Utilitarian
+
+Tier/Mana Cost:
+
+Range:
+
+Components: \[is always Spell Name] V , \[Varies] M
+
+Duration:
+
+Casting Time:
+
+Area of Effect:
+
+Effects of Spell:
+
+                :: Friendly Effects :
+
+                :: Hostile Effects :
+
+Magic Resistance/Penetration Modifier:
+
+Prerequisites: (attribute scores, tiers, or other conditions required to be met before spell can be learned)
+
+Description:
+
 
 
  Name:
@@ -173,6 +235,4 @@ Magic Resistance Modifier: Tier of Spell
 Prerequisites: (attribute scores, tiers, or other conditions required to be met before spell can be learned)
 
 Description:
-
-
 

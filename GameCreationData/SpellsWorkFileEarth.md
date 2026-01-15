@@ -72,145 +72,15 @@ Spell Types   | Generic Description of Type
 
  Utilitarian  | Shelter, Healing, Recovery, Movement Restricting/Enhancing, and Summoning
 
-
-
- Name:
-
-Spell School:
-
-Spell Type:
-
-Tier:
-
-Range:
-
-Components: \[is always Spell Name] V , \[Varies] M
-
-Duration:
-
-Casting Time:
-
-Area of Effect:
-
-Effects of Spell:
-
-                :: Friendly Effects :
-
-                :: Hostile Effects :
-
-Magic Resistance Modifier: Tier of Spell
-
-Description:
-
-
-
-
-
 Offensive    | Direct damage spells, De-buffs, Control
 
 
 
- Name: Earth Dart
-
-Spell School: Earth
-
-Spell Type: Offensive
-
-Tier: 0 - 9
-
-Range: 1-5
-
-Components: \[Earth Dart] V , \[A small pebble] M
-
-Duration: Instant
-
-Casting Time: Instant
-
-Area of Effect: 1 Target
-
-Effects of Spell: This spell produce a small dart composed of Earth that strikes its target with out failure.
-
-                :: Friendly Effects : None
-
-                :: Hostile Effects : Slows target movement by 1 point per tier and deals 5 points of Bludgeoning damage
-
-Magic Resistance Modifier: Tier of Spell
-
-Description: This spell produce a small dart composed of Earth that strikes its target with out failure. This is also  one of the few spells available during character creation(Tier 0), you need to upgrade this spell to Tier 1 to unlock the Offensive tree of the Earth School
 
 
+|Offensive spells|Defensive spells|Utilitarian spells|
+|-|-|-|
+|Name: Earth Dart<br />Spell School: Earth<br />Spell Type: Offensive<br />Tier: 0 - 9<br />Range: 1-5<br />Components: \[Earth Dart] V , \[A small pebble] M<br />Duration: Instant<br />Casting Time: Instant<br />Area of Effect: 1 Target<br />Effects of Spell: This spell produce a small dart composed of Earth that strikes its target with out failure.<br />                :: Friendly Effects : None<br />                :: Hostile Effects : Slows target movement by 1 point per tier and deals 5 points of Bludgeoning damage<br />Magic Resistance Modifier: Tier of Spell<br />Description: This spell produce a small dart composed of Earth that strikes its target with out failure. This is also  one of the few spells available during character creation(Tier 0), you need to upgrade this spell to Tier 1 to unlock the Offensive tree of the Earth School|Name: Earth Skin<br />Spell School: Earth<br />Spell Type: Defensive<br />Tier: 0-9<br />Range: Self, Touch<br />Components: \[Earth Skin] V , \[A hollow clay ball] M<br />Duration: 30 seconds<br />Casting Time: Instant<br />Area of Effect: Self or Touched target<br />Effects of Spell: Places a protective field around the caster or the target<br />                :: Friendly Effects : Reduces incoming Earth Damage(Physical Damage(Slashing, Bludgeoning, Crushing, Constricting), Elemental Damage(Heat)) by 3 points<br />                :: Hostile Effects : Enemies receive 3 points of Bludgeoning damage per attack made on the protected person<br />Magic Resistance Modifier: Tier of Spell<br />Description: Places a protective field around the caster or the target. This is also  one of the few spells available during character creation(Tier 0), you need to upgrade this spell to Tier 1 to unlock the Defensive tree of the Earth School|Name: Mud<br />Spell School: Earth<br />Spell Type: Utilitarian<br />Tier: 0-9<br />Range: 1-3 meters<br />Components: \[Mud] V , \[A small bag of wet sand] M<br />Duration: 60 seconds<br />Casting Time: Instant<br />Area of Effect: 2 meter diameter area of ground that turns into mud<br />Effects of Spell: Turns a area of ground into mud, slowing those who are in, or enter, the area of effect by 50% with a 10% chance to slip and fall<br />                :: Friendly Effects :<br />                :: Hostile Effects : Turns a area of ground into mud, slowing those who are in, or enter, the area of effect by 50% with a 10% chance to slip and fall<br />Magic Resistance Modifier: Tier of Spell<br />Description: Turns a area of ground into mud, slowing those who are in, or enter, the area of effect by 50% with a 10% chance to slip and fall. This is also  one of the few spells available during character creation(Tier 0), you need to upgrade this spell to Tier 1 to unlock the Utilitarian tree of the Earth School|
 
 
-
-
-
-Defensive    | Barriers, Auras, Buffs
-
-
-
- Name: Earth Skin
-
-Spell School: Earth
-
-Spell Type: Defensive
-
-Tier: 0-9
-
-Range: Self, Touch
-
-Components: \[Earth Skin] V , \[A hollow clay ball] M
-
-Duration: 30 seconds
-
-Casting Time: Instant
-
-Area of Effect: Self or Touched target
-
-Effects of Spell: Places a protective field around the caster or the target
-
-                :: Friendly Effects : Reduces incoming Earth Damage(Physical Damage(Slashing, Bludgeoning, Crushing, Constricting), Elemental Damage(Heat)) by 3 points
-
-                :: Hostile Effects : Enemies receive 3 points of Bludgeoning damage per attack made on the protected person
-
-Magic Resistance Modifier: Tier of Spell
-
-Description: Places a protective field around the caster or the target. This is also  one of the few spells available during character creation(Tier 0), you need to upgrade this spell to Tier 1 to unlock the Defensive tree of the Earth School
-
-
-
-
-
-Utilitarian  | Shelter, Healing, Recovery, Movement Restricting/Enhancing, and Summoning
-
-
-
-
-
- Name: Mud
-
-Spell School: Earth
-
-Spell Type: Utilitarian
-
-Tier: 0-9
-
-Range: 1-3 meters
-
-Components: \[Mud] V , \[A small bag of wet sand] M
-
-Duration: 60 seconds
-
-Casting Time: Instant
-
-Area of Effect: 2 meter diameter area of ground that turns into mud
-
-Effects of Spell: Turns a area of ground into mud, slowing those who are in, or enter, the area of effect by 50% with a 10% chance to slip and fall
-
-                :: Friendly Effects :
-
-                :: Hostile Effects : Turns a area of ground into mud, slowing those who are in, or enter, the area of effect by 50% with a 10% chance to slip and fall
-
-Magic Resistance Modifier: Tier of Spell
-
-Description: Turns a area of ground into mud, slowing those who are in, or enter, the area of effect by 50% with a 10% chance to slip and fall. This is also  one of the few spells available during character creation(Tier 0), you need to upgrade this spell to Tier 1 to unlock the Utilitarian tree of the Earth School
 

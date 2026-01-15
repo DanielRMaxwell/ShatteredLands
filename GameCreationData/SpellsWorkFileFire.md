@@ -76,6 +76,16 @@ Spell Types   | Generic Description of Type
 
 
 
+|Offensive spells|Defensive spells|Utilitarian spells|
+|-|-|-|
+|Name: Fire Dart<br />Spell School: Fire<br />Spell Type: Offensive<br />Tier/Mana Cost: 0 / 5<br />Range: 1 meter<br />Components: \[Fire Dart] V , \[A spark stone] M<br />Duration: Instant<br />Casting Time: Instant<br />Area of Effect: 1 Target<br />Effects of Spell:<br />    :: Friendly Effects : None<br />    :: Hostile Effects : Deals 5 points of Fire damage<br />Magic Penetration Modifier: 5<br />Prerequisites: None<br />Description: A tiny bolt of flame leaps to the target. Unlocks the Fire Offensive tree when upgraded to Tier 1.|Name: Fire Ward<br />Spell School: Fire<br />Spell Type: Defensive<br />Tier/Mana Cost: 0 / 5<br />Range: Self, Touch<br />Components: \[Fire Ward] V , \[A warm coal] M<br />Duration: 30 seconds<br />Casting Time: Instant<br />Area of Effect: Self or touched target<br />Effects of Spell:<br />    :: Friendly Effects : Reduces incoming Fire and Heat damage by 3 points<br />    :: Hostile Effects : Enemies receive 3 points of Heat damage per attack made on the protected person<br />Magic Resistance Modifier: 5<br />Prerequisites: None<br />Description: Surrounds the target with a faint heat shimmer. Unlocks the Fire Defensive tree when upgraded to Tier 1.|Name: Fire Spark<br />Spell School: Fire<br />Spell Type: Utilitarian<br />Tier/Mana Cost: 0 / 5<br />Range: Touch<br />Components: \[Fire Spark] V , \[A pinch of ash] M<br />Duration: Instant<br />Casting Time: Instant<br />Area of Effect: Small touched object<br />Effects of Spell:<br />    :: Friendly Effects : Ignites a small flame on a touched object<br />    :: Hostile Effects : None<br />Magic Resistance Modifier: 5<br />Prerequisites: None<br />Description: Produces a small flame suitable for lighting torches, candles, or campfires. Unlocks the Fire Utility tree when upgraded to Tier 1.|
+
+
+
+
+
+
+
  Name:
 
 Spell School:

@@ -74,31 +74,9 @@ Spell Types   | Generic Description of Type
 
 
 
- Name:
+|Offensive spells|Defensive spells|Utilitarian spells|
+|-|-|-|
+|Name: Shadow Dart<br />Spell School: Shadow<br />Spell Type: Offensive<br />Tier/Mana Cost: 0 / 5<br />Range: 1 meter<br />Components: \[Shadow Dart] V , \[A pinch of soot] M<br />Duration: Instant<br />Casting Time: Instant<br />Area of Effect: 1 Target<br />Effects of Spell:<br />    :: Friendly Effects : None<br />    :: Hostile Effects : Deals 5 points of Shadow damage<br />Magic Penetration Modifier: 5<br />Prerequisites: None<br />Description: A sliver of condensed darkness strikes the target. Unlocks the Shadow Offensive tree when upgraded to Tier 1.|Name: Shadow Ward<br />Spell School: Shadow<br />Spell Type: Defensive<br />Tier/Mana Cost: 0 / 5<br />Range: Self, Touch<br />Components: \[Shadow Ward] V , \[A scrap of black cloth] M<br />Duration: 30 seconds<br />Casting Time: Instant<br />Area of Effect: Self or touched target<br />Effects of Spell:<br />    :: Friendly Effects : Reduces incoming Shadow damage by 3 points<br />    :: Hostile Effects : Enemies receive 3 points of Shadow damage per attack made on the protected person<br />Magic Resistance Modifier: 5<br />Prerequisites: None<br />Description: A dim, wavering shroud of darkness surrounds the target. Unlocks the Shadow Defensive tree when upgraded to Tier 1.|Name: Shadow Step<br />Spell School: Shadow<br />Spell Type: Utilitarian<br />Tier/Mana Cost: 0 / 5<br />Range: Self<br />Components: \[Shadow Step] V , \[A small piece of charcoal] M<br />Duration: Instant<br />Casting Time: Instant<br />Area of Effect: Self<br />Effects of Spell:<br />    :: Friendly Effects : Allows the caster to step silently, reducing footstep noise by 75% for one movement action<br />    :: Hostile Effects : None<br />Magic Resistance Modifier: 5<br />Prerequisites: None<br />Description: Dampens the caster’s presence, allowing a near-silent step. Unlocks the Shadow Utility tree when upgraded to Tier 1.|
 
-Spell School:
 
-Spell Type:
-
-Tier:
-
-Range:
-
-Components: \[is always Spell Name] V , \[Varies] M
-
-Duration:
-
-Casting Time:
-
-Area of Effect:
-
-Effects of Spell:
-
-                :: Friendly Effects :
-
-                :: Hostile Effects :
-
-Magic Resistance Modifier: Tier of Spell
-
-Description:
 

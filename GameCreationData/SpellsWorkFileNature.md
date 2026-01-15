@@ -74,31 +74,11 @@ Spell Types   | Generic Description of Type
 
 
 
- Name:
 
-Spell School:
 
-Spell Type:
+|Offensive spells|Defensive spells|Utilitarian spells|
+|-|-|-|
+|Name: Nature Dart<br />Spell School: Nature<br />Spell Type: Offensive<br />Tier/Mana Cost: 0 / 5<br />Range: 1 meter<br />Components: \[Nature Dart] V , \[A thorn] M<br />Duration: Instant<br />Casting Time: Instant<br />Area of Effect: 1 Target<br />Effects of Spell:<br />    :: Friendly Effects : None<br />    :: Hostile Effects : Deals 5 points of Poison damage<br />Magic Penetration Modifier: 5<br />Prerequisites: None<br />Description: A tiny thorn-like projectile of natural energy strikes the target. Unlocks the Nature Offensive tree when upgraded to Tier 1.|Name: Nature Ward<br />Spell School: Nature<br />Spell Type: Defensive<br />Tier/Mana Cost: 0 / 5<br />Range: Self, Touch<br />Components: \[Nature Ward] V , \[A leaf] M<br />Duration: 30 seconds<br />Casting Time: Instant<br />Area of Effect: Self or touched target<br />Effects of Spell:<br />    :: Friendly Effects : Reduces incoming Nature damage by 3 points<br />    :: Hostile Effects : Enemies receive 3 points of Poison damage per attack made on the protected person<br />Magic Resistance Modifier: 5<br />Prerequisites: None<br />Description: A faint green aura surrounds the target. Unlocks the Nature Defensive tree when upgraded to Tier 1.|Name: Nature Call<br />Spell School: Nature<br />Spell Type: Utilitarian<br />Tier/Mana Cost: 0 / 5<br />Range: 5 meters<br />Components: \[Nature Call] V , \[A tuft of fur] M<br />Duration: 60 seconds<br />Casting Time: Instant<br />Area of Effect: Self<br />Effects of Spell:<br />    :: Friendly Effects : Attracts a small harmless animal to the caster<br />    :: Hostile Effects : None<br />Magic Resistance Modifier: 5<br />Prerequisites: None<br />Description: Summons a tiny creature to the caster’s side. Unlocks the Nature Utility tree when upgraded to Tier 1.|
 
-Tier:
 
-Range:
-
-Components: \[is always Spell Name] V , \[Varies] M
-
-Duration:
-
-Casting Time:
-
-Area of Effect:
-
-Effects of Spell:
-
-                :: Friendly Effects :
-
-                :: Hostile Effects :
-
-Magic Resistance Modifier: Tier of Spell
-
-Description:
 

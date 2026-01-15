@@ -74,31 +74,11 @@ Spell Types   | Generic Description of Type
 
 
 
- Name:
 
-Spell School:
 
-Spell Type:
+|Offensive spells|Defensive spells|Utilitarian spells|
+|-|-|-|
+|Name: Necrotic Dart<br />Spell School: Necrotic<br />Spell Type: Offensive<br />Tier/Mana Cost: 0 / 5<br />Range: 1 meter<br />Components: \[Necrotic Dart] V , \[A dead insect] M<br />Duration: Instant<br />Casting Time: Instant<br />Area of Effect: 1 Target<br />Effects of Spell:<br />    :: Friendly Effects : None<br />    :: Hostile Effects : Deals 5 points of Necrotic damage<br />Magic Penetration Modifier: 5<br />Prerequisites: None<br />Description: A mote of decaying energy strikes the target. Unlocks the Necrotic Offensive tree when upgraded to Tier 1.|Name: Necrotic Ward<br />Spell School: Necrotic<br />Spell Type: Defensive<br />Tier/Mana Cost: 0 / 5<br />Range: Self, Touch<br />Components: \[Necrotic Ward] V , \[A pinch of grave soil] M<br />Duration: 30 seconds<br />Casting Time: Instant<br />Area of Effect: Self or touched target<br />Effects of Spell:<br />    :: Friendly Effects : Reduces incoming Necrotic damage by 3 points<br />    :: Hostile Effects : Enemies receive 3 points of Necrotic damage per attack made on the protected person<br />Magic Resistance Modifier: 5<br />Prerequisites: None<br />Description: A cold, deathly aura surrounds the target. Unlocks the Necrotic Defensive tree when upgraded to Tier 1.|Name: Necrotic Sense<br />Spell School: Necrotic<br />Spell Type: Utilitarian<br />Tier/Mana Cost: 0 / 5<br />Range: Self<br />Components: \[Necrotic Sense] V , \[A dried bone chip] M<br />Duration: 60 seconds<br />Casting Time: Instant<br />Area of Effect: Self<br />Effects of Spell:<br />    :: Friendly Effects : Allows the caster to sense nearby corpses or undead within 10 meters<br />    :: Hostile Effects : None<br />Magic Resistance Modifier: 5<br />Prerequisites: None<br />Description: Grants awareness of nearby dead or undead entities. Unlocks the Necrotic Utility tree when upgraded to Tier 1.|
 
-Tier:
 
-Range:
-
-Components: \[is always Spell Name] V , \[Varies] M
-
-Duration:
-
-Casting Time:
-
-Area of Effect:
-
-Effects of Spell:
-
-                :: Friendly Effects :
-
-                :: Hostile Effects :
-
-Magic Resistance Modifier: Tier of Spell
-
-Description:
 

@@ -74,31 +74,11 @@ Spell Types   | Generic Description of Type
 
 
 
- Name:
 
-Spell School:
 
-Spell Type:
+|Offensive spells|Defensive spells|Utilitarian spells|
+|-|-|-|
+|Name: Psionic Dart<br />Spell School: Psionic<br />Spell Type: Offensive<br />Tier/Mana Cost: 0 / 5<br />Range: 1 meter<br />Components: \[Psionic Dart] V , \[A crystal shard] M<br />Duration: Instant<br />Casting Time: Instant<br />Area of Effect: 1 Target<br />Effects of Spell:<br />    :: Friendly Effects : None<br />    :: Hostile Effects : Deals 5 points of Mental damage<br />Magic Penetration Modifier: 5<br />Prerequisites: None<br />Description: A focused spike of mental force strikes the target. Unlocks the Psionic Offensive tree when upgraded to Tier 1.|Name: Psionic Ward<br />Spell School: Psionic<br />Spell Type: Defensive<br />Tier/Mana Cost: 0 / 5<br />Range: Self, Touch<br />Components: \[Psionic Ward] V , \[A smooth stone] M<br />Duration: 30 seconds<br />Casting Time: Instant<br />Area of Effect: Self or touched target<br />Effects of Spell:<br />    :: Friendly Effects : Reduces incoming Mental damage by 3 points<br />    :: Hostile Effects : Enemies receive 3 points of Mental damage per attack made on the protected person<br />Magic Resistance Modifier: 5<br />Prerequisites: None<br />Description: A mental barrier forms around the target. Unlocks the Psionic Defensive tree when upgraded to Tier 1.|Name: Psionic Link<br />Spell School: Psionic<br />Spell Type: Utilitarian<br />Tier/Mana Cost: 0 / 5<br />Range: 10 meters<br />Components: \[Psionic Link] V , \[A grain of sand] M<br />Duration: 60 seconds<br />Casting Time: Instant<br />Area of Effect: Self and 1 target<br />Effects of Spell:<br />    :: Friendly Effects : Creates a simple telepathic link for basic thoughts<br />    :: Hostile Effects : None<br />Magic Resistance Modifier: 5<br />Prerequisites: None<br />Description: Establishes a temporary telepathic link between the caster and a chosen target. Unlocks the Psionic Utility tree when upgraded to Tier 1.|
 
-Tier:
 
-Range:
-
-Components: \[is always Spell Name] V , \[Varies] M
-
-Duration:
-
-Casting Time:
-
-Area of Effect:
-
-Effects of Spell:
-
-                :: Friendly Effects :
-
-                :: Hostile Effects :
-
-Magic Resistance Modifier: Tier of Spell
-
-Description:
 

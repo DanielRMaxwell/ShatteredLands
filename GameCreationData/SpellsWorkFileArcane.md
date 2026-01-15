@@ -74,31 +74,9 @@ Spell Types   | Generic Description of Type
 
 
 
- Name:
+|Offensive spells|Defensive spells|Utilitarian spells|
+|-|-|-|
+|Name: Arcane Dart<br />Spell School: Arcane<br />Spell Type: Offensive<br />Tier/Mana Cost: 0 / 5<br />Range: 1 meter<br />Components: \[Arcane Dart] V , \[A mote of dust] M<br />Duration: Instant<br />Casting Time: Instant<br />Area of Effect: 1 Target<br />Effects of Spell:<br />    :: Friendly Effects : None<br />    :: Hostile Effects : Deals 5 points of Arcane damage<br />Magic Penetration Modifier: 5<br />Prerequisites: None<br />Description: A small bolt of raw arcane energy strikes the target. Unlocks the Arcane Offensive tree when upgraded to Tier 1.|Name: Arcane Ward<br />Spell School: Arcane<br />Spell Type: Defensive<br />Tier/Mana Cost: 0 / 5<br />Range: Self, Touch<br />Components: \[Arcane Ward] V , \[A pinch of chalk] M<br />Duration: 30 seconds<br />Casting Time: Instant<br />Area of Effect: Self or touched target<br />Effects of Spell:<br />    :: Friendly Effects : Reduces incoming Arcane damage by 3 points<br />    :: Hostile Effects : Enemies receive 3 points of Arcane damage per attack made on the protected person<br />Magic Resistance Modifier: 5<br />Prerequisites: None<br />Description: A shimmering arcane field surrounds the target. Unlocks the Arcane Defensive tree when upgraded to Tier 1.|Name: Arcane Mark<br />Spell School: Arcane<br />Spell Type: Utilitarian<br />Tier/Mana Cost: 0 / 5<br />Range: Touch<br />Components: \[Arcane Mark] V , \[A drop of ink] M<br />Duration: 60 seconds<br />Casting Time: Instant<br />Area of Effect: Touched object<br />Effects of Spell:<br />    :: Friendly Effects : Places a small glowing sigil visible only to the caster<br />    :: Hostile Effects : None<br />Magic Resistance Modifier: 5<br />Prerequisites: None<br />Description: Marks an object with a temporary arcane sigil. Unlocks the Arcane Utility tree when upgraded to Tier 1.|
 
-Spell School:
 
-Spell Type:
-
-Tier:
-
-Range:
-
-Components: \[is always Spell Name] V , \[Varies] M
-
-Duration:
-
-Casting Time:
-
-Area of Effect:
-
-Effects of Spell:
-
-                :: Friendly Effects :
-
-                :: Hostile Effects :
-
-Magic Resistance Modifier: Tier of Spell
-
-Description:
 

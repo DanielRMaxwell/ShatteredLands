@@ -1,6 +1,6 @@
  ***Strength (STR) is a measure of a players Physical power and how they are able to apply it.***
 
-|                                                               ***Strength (STR)***|
+|***Strength (STR)***|
 |-|
 |Lifting Capacity = STR × 10 (kg)<br />Total Physical Damage = Base Weapon Damage + STR<br />Damage Blocked = STR × Shield Multiplier<br />- Buckler = STR × 1<br />- Small Shield = STR × 2<br />- Medium Shield = STR × 3<br />- Large Shield = STR × 4<br />- Tower Shield = STR × 5|
 
@@ -63,7 +63,7 @@
 
 ***Dexterity is a measure of a players hand and eye coordination***
 
-|                                                                        ***Dexterity(DEX)***|
+|***Dexterity(DEX)***|
 |-|
 |Base Hit Chance = DEX + Other Modifiers\*<br />Parry Chance = DEX + Other Modifiers\*<br />Block Chance = DEX + Other Modifiers\*<br />Lockpicking Success = DEX + Lockpicking Skill Level-Lock Difficulty<br />Climbing Skill Modifier = DEX ÷ 2(Truncated)<br />::Climbing Skill = 10 + (DEX ÷ 2(Truncated)) + (AGI ÷ 2(Truncated)) + (Mountaineering bonus) + (Climb Walls Bonus)::<br />\*=(Should include weapon accuracy, enemy evasion, skill modifiers, and buffs/debuffs)|
 
@@ -124,11 +124,11 @@
 
 
 
-***Agility is the measure of how well the player is able to move their body. ***
+***Agility is the measure of how well the player is able to move their body.***
 
 
 
-|                                                                           ***Agility*** |
+|***Agility***|
 |-|
 |Dodge Chance = AGI + Other Modifiers\*<br />Stealth Skill Modifier = AGI ÷ 2(Truncated)<br />Climbing Skill Modifier = AGI ÷ 2(Truncated)<br />::Climbing Skill = 10 + (DEX ÷ 2(Truncated)) + (AGI ÷ 2(Truncated)) + (Mountaineering bonus) + (Climb Walls Bonus)::<br />\*=(Should include weapon accuracy, enemy evasion, skill modifiers, and buffs/debuffs)|
 
@@ -187,15 +187,15 @@
 
 
 
-  
+
 
 ***Constitution is the measure of how well the player can resist poison, and disease, regeneration rates, and total health points***
 
-|                                                    Constitution|
+|Constitution|
 |-|
 |Base HP = CON × 100<br />HP Recovery (Resting) = (CON÷2(Truncated))(HP/sec)<br />HP Recovery (In Combat) = (CON÷10(Truncated))(HP/sec)<br />Resistance Bonus = CON + Other Modifiers(Poison/Disease specific)|
 
-|Score|Base HP |Rest HP Recovery|Combat HP Regeneration|Poison Resistance Modifier|Disease Resistance Modifier|
+|Score|Base HP|Rest HP Recovery|Combat HP Regeneration|Poison Resistance Modifier|Disease Resistance Modifier|
 |-|-|-|-|-|-|
 |1|100|0|0|1|1|
 |2|200|1|0|2|2|
@@ -254,10 +254,10 @@
 
 ***Stamina is the measure of how long a player can engage in various activities based on how intense those activities are.***
 
-|                                                                      Stamina(WIP)|
+|Stamina(WIP)|
 |-|
-|Endurance = STA × 100<br />Endurance Recovery = 1 Endurance per 10 seconds of Rest<br />Normal Activities = Walking, Endurance cost is 2 per second<br />Moderate Activities = Running, Endurance cost is 5 per second<br />Heavy Activities = Combat or exceeding the maximum weight carried by 20% Endurance cost is 10 per second<br />Spell Casting/Skill Use  = Costs 1 Endurance per tier of the spell cast or skill used|
-|Fatigue \& Exhaustion System<br /><br />\- \*\*Fatigue Accumulation\*\*<br />  ```<br />  Fatigue Gained = 1 per 10% Endurance used<br />  ```<br />\- \*\*Fatigue Recovery\*\*<br />  ```<br />  Fatigue Recovery = 1 per 10% Endurance regained<br />  ```<br />\- \*\*Fatigue Effects per Point\*\*<br />  - Movement Speed:<br />    ```<br />    −0.5% per Fatigue Point<br />    ```<br />  - Attribute Penalty:<br />    ```<br />    −0.5% per Fatigue Point<br />    ```<br />\- \*\*Exhaustion Threshold\*\*<br />  - At 10 Fatigue:<br />    ``` Applies 1 stack of the “Exhausted” de-buff which reduces All Attributes = Base × 0.9 <br /><br />  - At 10 Exhausted stacks:<br />    - Player is rendered unconscious<br />    - Forcefully logged out for 24 hours on that character<br />    - Teleported to the nearest safe zone|
+|Endurance = STA × 10<br />Endurance Recovery = 1 Endurance per 10 seconds of Rest<br />Activity Duration = How long an activity can be engaged in before the players begins to experience Fatigue(stacking de-buff)<br />Light Activities = Endurance cost is 0<br />Normal Activities =  Endurance cost is 2 per second<br />Moderate Activities =  Endurance cost is 5 per second<br />Heavy Activities =  Endurance cost is 10 per second<br />Spell Casting/Combat Skill Use  = Costs 1 Endurance per tier of the spell cast or skill used<br />Crafting and harvesting skills have an assigned activity level of one  of the following = Light, Normal, Moderate, or Heavy to determine duration and endurance cost|
+|Fatigue \& Exhaustion System<br /><br />- \*\*Fatigue Accumulation\*\*<br />    Fatigue Gained = 1 per 10% Endurance used<br />- \*\*Fatigue Recovery\*\*<br />    Fatigue Recovery = 1 per 10% Endurance regained<br />- \*\*Fatigue De-Buff\*\*<br />  - Movement Speed:<br />        −0.5% per Fatigue Point<br />  - Attribute Penalty:<br />        de-buff which reduces All Attributes = Base × 0.9<br />  - At 10 Fatigue stacks:<br />    - Player is rendered unconscious<br />    - Forcefully logged out for 24 hours on that character<br />    - Teleported to the nearest safe zone|
 
 |Score|Endurance| Fatigue Recovery|Activity Duration Normal STA(hours)|Activity Duration Moderate STA(Minutes)|Activity Duration Heavy STA÷2(minutes)|
 |-|-|-|-|-|-|
@@ -396,13 +396,13 @@ Character Progression Rules
 
 \- \*\*Tier progression\*\*
 
-&nbsp; ``` Every 25 Build Points(BP) spent will increase a player Tier by .2 
+  ``` Every 25 Build Points(BP) spent will increase a player Tier by .2
 
-&nbsp;     Build Points are gained by the earning of Experience Points(XP)
+      Build Points are gained by the earning of Experience Points(XP)
 
-&nbsp;     XP per build point uses the following method to calculate the required XP. Next BP = (Current BP + 1) × 1000
+      XP per build point uses the following method to calculate the required XP. Next BP = (Current BP + 1) × 1000
 
-&nbsp;     Players can store BP , but when doing so their Tier will not increase until they spend them to purchase Crafting Skills, Weapon Skills, Spells, or Attributes.
+      Players can store BP , but when doing so their Tier will not increase until they spend them to purchase Crafting Skills, Weapon Skills, Spells, or Attributes.
 
 
 

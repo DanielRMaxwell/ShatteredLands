@@ -1,0 +1,2245 @@
+Spells work file Tier 7
+
+School\Sphere:( Spell Schools are Air, Earth, Fire, Water, Nature, Psionic, Arcane, Acid, Necrotic, Divine, and Shadow)
+Tier:  1
+Range: ( Base is Tier X .5 meters) 
+Components: (V = verbal, S = Somatic, M = Material)
+Duration:  
+Casting Time: (Base is Tier X 10)
+Area of Effect: 
+Effects of Spell:  
+Saving Throw: (25 + relevant attribute score and other modifiers, Percentage roll must roll under percentage chance)
+Subtlety: 
+Knockdown: 
+Sensory:  
+Critical: 
+Description:
+
+ Seventh-Level Spells
+
+ Name: 
+School\Sphere: 
+Tier: 7 
+Range:  
+Components: [is always Spell Name] V , [Varies] S , [Varies] M 
+Duration:  
+Casting Time: 
+Area of Effect: 
+Effects of Spell: 
+                :: Friendly Effects :  
+                :: Hostile Effects :  
+Saving Throw: 
+Subtlety: 
+Knockdown: 
+Sensory:  
+Critical: 
+Description: 
+
+
+ Acid Storm (Evocation) 
+Range: 10 yards/level
+Components: V, S, M
+Duration: 1 round/level
+Casting Time: 7
+Area of Effect: 40-foot-diameter circle
+Saving Throw: ½ 
+This deadly spell unleashes a downpour of magical, gelatinous acid droplets. All 
+creatures within the area of effect are coated by globs of gooey acid. The acid can be 
+washed off only with wine, vinegar, or by a successful dispel magic or similar spell. The 
+acid remains present for 1 round per level of the caster, then vanishes.
+Creatures coated by the acid suffer 1d4 hit points of damage each round during 
+rounds 1-3, 1d6 points in each of rounds 4-6, and 1d8 points on each round thereafter. 
+Characters who successfully save vs. spells during the first round suffer only half damage 
+from the acid for the remaining rounds. When the spell expires, no further damage is 
+inflicted.
+Acid damage can be healed through any means except regeneration. The material 
+component is a drop of acid. 
+
+ Antimineral Shell
+(Abjuration)
+Sphere: Protection, Elemental (Earth)
+Range: 0 Components: V, S, M
+Duration: 1 turn/level Casting Time: 1 round
+Area of Effect: 10-ft. radius Saving Throw: None
+Subtlety: +6 Knockdown: None
+Sensory: None Critical: None
+When a priest casts this spell, he creates an invisible force field or barrier that 
+blocks the entrance of animated or living mineral creatures. It is effective against 
+elementals and creatures of elemental origin such as aerial servants, djinns, and mephits; 
+golems and other constructs; creatures of living stone, such as galeb duhr or xorn; and 
+objects, weapons, or armor animated by some outside force. It does not bar the passage of 
+undead monsters, living creatures carrying inanimate material, or nonanimated minerals 
+such as a giant-thrown boulder or a common rockslide. The antimineral shell moves with 
+the caster, but if the caster tries to force it against a creature affected by this spell, the 
+antimineral shell fails. The material component is a drop of some caustic solvent, such as 
+acid from a black dragon.
+
+ Banishment
+(Abjuration)
+Range: 20 yds. Components: V, S, M
+Duration: Instantaneous Casting Time: 7
+Area of Effect: 60-ft. radius Saving Throw: Special
+A banishment spell enables the caster to force some extraplanar creature out of the
+caster's home plane. The effect is instantaneous, and the subject cannot come back
+without some special summoning or means of egress from its own plane to the one from
+which it was banished. Up to 2 Hit Dice or levels of creature per caster level can be
+banished.
+The caster must both name the type of creature(s) to be sent away and give its name 
+and title as well, if any. In any event, the creature's magic resistance must be overcome
+for the spell to be effective.
+The material components of the spell are substances harmful, hateful, or opposed to the
+nature of the subject(s) of the spell. For every such substance included in the casting, the
+subject creature(s) loses 5% from its magic resistance and suffers a -2 penalty to its
+saving throw vs. spell. For example, if iron, holy water, sunstone, and a sprig of rosemary
+were used in casting a banishment upon a being that hates those things, its saving throw
+versus the spell would be made with a -8 penalty (four substances times the factor of -2).
+Special items, such as hair from the tail of a ki-rin or couatl feathers, could also be added
+to change the factor to -3 or -4 per item. In contrast, a titan's hair or mistletoe blessed by a
+druid might lower the factor to -1 with respect to the same creature. If the subject creature
+successfully rolls its saving throw vs. spell, the caster is stung by a backlash of energy,
+suffers 2d6 points of damage, and is stunned for one round.
+
+ Bigby's Grasping Hand
+(Evocation)
+Range: 10 yds./level Components: V, S, M
+Duration: 1 rd./level Casting Time: 7
+Area of Effect: Special Saving Throw: None
+Bigby's grasping hand is a superior version of the 6th-level spell Bigby's forceful hand.
+It creates a man-sized (5 feet) to gargantuan-sized (21 feet) hand that appears and grasps
+a creature designated by the caster, regardless of what the spellcaster does or how the
+opponent tries to escape it. The grasping hand can hold motionless a creature or object of
+up to 1,000 pounds weight, slow movement to 10 feet per round if the creature weighs
+between 1,000 and 4,000 pounds, or slow movement by 50% if the creature weighs up to
+16,000 pounds. The hand itself inflicts no damage. The grasping hand has an Armor
+Class of 0, has as many hit points as its caster in full health, and vanishes when
+destroyed. The caster can order it to release a trapped opponent or can dismiss it on
+command.
+The material component is a leather glove.
+
+ Bloodstone's Frightful Joining (Necromancy) 
+Range: Touch
+Components: V, S
+Duration: 1 turn/level
+Casting Time: 7
+Area of Effect: One undead creature
+Saving Throw: Special 
+When this powerful spell is employed, the wizard transfers his spirit to the body of an 
+undead creature, totally dominating it. If the undead creature has intelligence, it is 
+allowed a saving throw vs. spell to resist the joining. If the save is successful, the caster's 
+spirit is forced back into his own body. The wizard must make a system shock roll; if the 
+roll fails, the wizard suffers 5d6 points of damage. If the roll succeeds, the wizard suffers 
+half this damage.
+If the creature's save fails, the necromancer joins his life essence with that of the 
+undead. While in the creature's body, the caster can use all of its special attacks and 
+innate abilities, excluding spells memorized by the creature.
+The wizard's body remains comatose, is subject to all regular attacks, and suffers 
+damage normally. The wizard's spirit can travel an unlimited distance from his physical 
+body as long as they remain on the same plane of existence.
+If intelligent, the possessed undead continually tries to purge the caster with mental 
+threats that can be heard only by the wizard. The thoughts of the undead are ghastly. 
+During the first minute of each hour of possession, the caster must succeed an 
+Intelligence check in order to retain his sanity. The roll is modified by the difference 
+between the creature's Intelligence and that of the spellcaster. If the undead has a higher 
+score, the difference is added to the die roll. If the necromancer has a higher Intelligence, 
+the difference is subtracted from the roll.
+If the roll is successful, nothing happens and the caster may continue to possess the 
+undead. If the Intelligence roll fails, the wizard's intellect degenerates, making him a 
+raving, homicidal maniac. His spirit is immediately forced to return to his body, and he 
+must attempt a system shock roll with damage occurring as outlined above. The caster 
+remains dangerously insane until a heal or wish spell is used to restore his intellect.
+This spell can be very useful when combined with the mask of death spell.
+When the spell's duration expires, the necromancer's spirit immediately returns to his 
+body. 
+
+ Charm Plants
+(Enchantment/Charm)
+Range: 30 yds. Components: V, S, M
+Duration: Permanent Casting Time: 1 turn
+Area of Effect: 10 x 30 ft. Saving Throw: Neg.
+The charm plants spell enables the spellcaster to bring under command vegetable life
+forms and communicate with them. These plants obey instructions to the best of their
+ability. The spell will charm plants in a 30-foot x 10-foot area. While the spell does not
+endow the vegetation with new abilities, it does enable the wizard to command the plants
+to use whatever they have in order to fulfill his instructions. If the plants in the area of
+effect do have special or unusual abilities, these are used as commanded by the wizard. 
+For example, this spell can generally duplicate the effects of the 1st-level priest spell
+entangle, if the caster desires. The saving throw applies only to intelligent plants, and it is
+made with a -4 penalty to the die roll.
+The material components of the spell are a pinch of humus, a drop of water, and a twig
+or leaf.
+
+ Conjure Air or Water Elemental
+(Conjuration/Summoning)
+Reversible
+Sphere: Elemental (Air/Water)
+Range: 80 yds. Components: V, S
+Duration: 1 turn/level Casting Time: 6 rds.
+Area of Effect: Special Saving Throw: None
+Subtlety: +5 Knockdown: None
+Sensory: Moderate visual Critical: None
+Priests of elemental air or elemental water can summon elementals from their 
+respective spheres, just as druids can conjure fire or earth elementals. The summoned 
+elemental is 60% likely to have 12 Hit Dice, 35% likely to have 16 Hit Dice, and 5% 
+likely to have 21 to 24 Hit Dice (20+1d4). Unlike the wizard version of this spell, the 
+caster does not need to concentrate to maintain control of the elemental since the creature 
+regards the caster as a friend and obeys him implicitly. The elemental remains until 
+destroyed, dispelled, sent away by a dismissal or a holy word spell, or the spell duration 
+expires.
+
+ Control Undead
+(Necromancy)
+Range: 60 ft. Components: V, S, M
+Duration: 3d4 rds. + 1 rd./level Casting Time: 1 rd.
+Area of Effect: 1d6 undead Saving Throw: Special
+This spell enables the wizard to command 1d6 undead creatures for a short period of
+time. Upon casting the spell, the wizard selects one point within range of the spell. Those
+undead nearest to this point are affected, until either undead equal in Hit Dice to the
+caster's level or six undead are affected. Undead with 3 Hit Dice or less are automatically
+controlled. Those of greater Hit Dice are allowed a saving throw vs. spell, which, if
+successful, negates the attempt to control that creature. Regardless of the success or
+failure of the saving throw, each creature required to make a check counts toward the Hit
+Dice limit of the spell.
+Those creatures under the control of the wizard can be commanded by the caster if
+they are within hearing range. There is no telepathic communication or language
+requirement between the caster and the controlled undead. Even if communication is
+impossible, the controlled undead do not attack the spellcaster. At the end of the spell, the
+controlled undead revert to their normal behaviors. Those not mindless will remember the
+control exerted by the wizard.
+The material component for this spell is a small piece each of bone and raw meat.
+
+ Delayed Blast Fireball
+(Evocation)
+Range: 100 yds. + 10 yds./level Components: V, S, M
+Duration: Special Casting Time: 7
+Area of Effect: 20-ft. radius Saving Throw: _
+This spell creates a fireball, with a +1 bonus to each of its dice of damage, which
+releases its blast anytime from instantly to five rounds later, according to the command
+given by the wizard. In other respects, the spell is the same as the 3rd-level spell fireball.
+
+ Descent into Madness
+(Enchantment/Charm, Mentalism)
+Range: 10 yds./level Components: V, S, M
+Duration: Permanent Casting Time: 7
+Area of Effect: 1 creature Saving Throw: Negates
+Subtlety: +5 Knockdown: None
+Sensory: Moderate visual Critical: None
+More insidious and powerful than the feeblemind spell, descent into madness 
+afflicts one creature with a random form of insanity. The spell can affect any creature 
+with an Intelligence of low (5) or higher; however, a character or creature protected by a 
+mind blank is immune to this spell. Creatures are entitled to a normal saving throw vs. 
+spell to withstand the spell. The form of insanity caused by the spell is determined by a 
+roll on the chart:
+
+d%    | Insanity Type
+01–15 |  Delirium
+16–22 |  Disorientation
+23–34 |  Phobia
+35–40 |  Paranoia
+41–44 |  Alienation
+45–54 |  Amnesia
+55–64 |  Hallucinatory insanity
+65–69 |  Melancholia
+70–74 |  Dementia praecox
+75–83 |  Mania
+84–89 |  Hebephrenia
+90–95 |  Catatonia
+96–00 |  Homicidal mania
+
+The various types of insanity and their game effects are described under the 
+Alienist in Chapter 6. The caster has no idea what kind of madness the spell inflicts on its 
+victim, although he may be able to form an educated guess after observing the victim for 
+a few rounds. Descent into madness accelerates the process of insanity radically, 
+producing an advanced condition almost immediately; for example, a character rendered 
+paranoid by this spell skips past suspicion and instantly regards his friends and allies as 
+enemies of the worst sort. The victim has a small chance of recovering with the passage 
+of time (as described under each type of insanity) but other than that the only ways to 
+repair the effects of this spell are restoration, wish, or use of the psionic power psychic 
+surgery.
+The material component is a special cube of gold wire worth at least 500 gold 
+pieces shaped to represent a tesseract, or four-dimensional figure.
+
+ Drawmij's Instant Summons
+(Conjuration/Summoning)
+Range: Infinite + special Components: V, S, M
+Duration: Instantaneous Casting Time: 1
+Area of Effect: 1 small object Saving Throw: None
+When this spell is cast, the wizard teleports some desired item from virtually any
+location directly to his hand. The single object can be no longer in any dimension than a
+sword, can have no more weight than a shield (about eight pounds), and must be
+nonliving.
+To prepare this spell, the wizard must hold a gem of not less than 5,000 gp value in his
+hand and utter all but the final word of the conjuration. At some point in the future, he
+must crush the gem and utter the final word. The desired item is then transported instantly
+into the spellcaster's right or left hand, as he desires.
+The item must have been previously touched during the initial incantation and
+specifically named; only that particular item is summoned by the spell. During the initial
+incantation, the gem becomes magically inscribed with the name of the item to be
+summoned. The inscription is invisible and unreadable, except by means of a read magic
+spell, to all but the wizard who cast the summons.
+If the item is in the possession of another creature, the spell does not work, and the
+caster knows who the possessor is and roughly where he, she, or it is located when the
+summons is cast. Items can be summoned from other planes of existence, but only if such
+items are not in the possession (not necessarily the physical grasp) of another creature.
+For each level of experience above the 14th, the wizard is able to summon a desired item
+from one plane farther removed from the plane he is in at the time the spell is cast (one
+plane away at 14th level, two planes away at 15th, etc.). Thus, a wizard of 16th level
+could cast the spell even if the desired item was on the second layer of one of the Outer
+Planes, but at 14th level the wizard would be able to summon the item only if it were no
+farther than one of the Inner Planes, the Ethereal Plane, or the Astral Plane (see the
+Planescape Campaign Setting boxed set). Note that special wards or barriers, or factors
+that block the teleport or plane shift spells, may also block the operation of this spell.
+Objects in Leomund's secret chest cannot be recovered by using this spell.
+Note: If the item is wizard marked, it can be summoned from anywhere on the same
+plane unless special local conditions apply. Furthermore, the details of the location of the
+item are more specific, and the item is more easily traceable with other types of scrying
+magic.
+
+ Duo-Dimension
+(Alteration)
+Range: 0 Components: V, S, M
+Duration: 3 rds. + 1 rd./level Casting Time: 7
+Area of Effect: The caster Saving Throw: None
+A duo-dimension spell causes the caster to have only two dimensions, height and
+width, with no depth. He is thus invisible when turned sideways. This invisibility can be
+detected only by means of a true seeing spell or similar methods. In addition, the duo-dimensional
+ wizard can pass through the thinnest of spaces as long as these have the
+proper height--going through the space between a door and its frame is a simple matter.
+The wizard can perform all actions normally. He can turn and become invisible, move in
+this state, and appear again next round and cast a spell, disappearing on the following 
+round.
+Note that when turned, the wizard cannot be affected by any form of attack, but when
+visible, he is subject to double the amount of damage normal for an attack form; for
+example, a dagger thrust would inflict 2d4 points of damage if it struck a duo-dimensional wizard.
+ Furthermore, the wizard has a portion of his existence in the Astral
+Plane when the spell is in effect, and he is subject to possible notice by creatures there. If
+noticed, it is 25% probable that the wizard is pulled entirely into the Astral Plane by any
+attack from an astral creature. Such an attack (and any subsequent attack received on the
+Astral Plane) inflicts normal damage.
+The material components of this spell are a flat ivory likeness of the spellcaster (which
+must be of finest workmanship, gold filigreed, and enameled and gem-studded at an
+average cost of 500 to 1,000 gp) and a strip of parchment. As the spell is uttered, the
+parchment is given half a twist and joined at the ends. The figurine is then passed through
+the parchment loop, and both disappear forever.
+
+ Finger of Death
+(Necromancy)
+Range: 60 yds. Components: V, S
+Duration: Permanent Casting Time: 5
+Area of Effect: 1 creature Saving Throw: Neg.
+The finger of death spell snuffs out the victim's life force. If successful, the victim can
+be neither raised nor resurrected. In addition, in human subjects the spell initiates changes
+to the body such that after three days the caster can, by means of a special ceremony
+costing not less than 1,000 gp plus 500 gp per body, animate the corpse as a juju zombie
+under the control of the caster. The changes can be reversed before animation by a limited
+wish or similar spell cast directly upon the body, and a full wish restores the subject to
+life.
+The caster utters the finger of death spell incantation, points his index finger at the
+creature to be slain, and unless the victim succeeds in a saving throw vs. spell, death
+occurs. A creature successfully saving still receives 2d8+1 points of damage. If the
+subject dies of damage, no internal changes occur and the victim can then be revived
+normally.
+
+ Forcecage
+(Evocation)
+Range: 10 yds./2 levels Components: V, S, special
+Duration: 6 turns + 1/level Casting Time: 3-4
+Area of Effect: 20-ft. cube Saving Throw: None
+This powerful spell enables the caster to bring into being a cube of force, but it is
+unlike the magical item of that name in one important respect: The forcecage does not
+have solid walls of force; it has alternating bands of force with _-inch gaps between.
+Thus, it is truly a cage, rather than an enclosed space with solid walls. Creatures within 
+the area of effect of the spell are caught and contained unless they are able to pass
+through the openings--and, of course, all spells and breath weapons can pass through the
+gaps in the bars of force of the forcecage.
+A creature with magic resistance has a single attempt to pass through the walls of the
+cage. If the resistance check is successful, the creature escapes. If it fails, the creature is
+caged. Note that a successful check does not destroy the cage, nor does it enable other
+creatures (save familiars) to flee with the escaping creature. The forcecage is also unlike
+the solid-walled protective device, cube of force, in that it can be gotten rid of only by
+means of a dispel magic spell or by the expiration of the spell.
+By means of special preparation at the time of memorization, a forcecage spell can be
+altered to a forcecube spell. The cube created is 10 feet on a side, and the spell then
+resembles that of a cube of force in all respects save that of the differences between a cast
+spell and the magic of a device, including the methods of defeating its power.
+Although the actual casting of either application of the spell requires no material
+component, the study required to commit it to memory does demand that the wizard
+powder a diamond of at least 1,000 gp value, using the diamond dust to trace the outlines
+of the cage or cube he desires to create via spellcasting at some later time. Thus, in
+memorization, the diamond dust is employed and expended, for upon completion of
+study, the wizard must then toss the dust into the air and it will disappear.
+
+ Hatch the Stone from the Egg (Alteration, Enchantment, Evocation) 
+Range: Touch
+Components: V, S, M
+Duration: Special
+Casting Time: 1d4+4 hours
+Area of Effect: One alchemical mixture
+Saving Throw: None 
+When a wizard wishes to create the magical item known as the philosopher's stone, 
+he must first discover its alchemical formula, which tells him the necessary ingredients 
+and the method of preparing them. This information is not provided by this spell, and this 
+spell is useless without the formula. (The exact ingredients and formula are decided by 
+the Dungeon Master and must be discovered by the wizard by adventuring.)
+When the formula has been discovered and the ingredients prepared, the wizard 
+enchants the alchemical mixture with the enchant an item spell. Hatch the stone from the 
+egg is then cast upon the mixture. This spell slowly transmutes the mixture into its final 
+form as the philosopher's stone. The process is completed with a permanency spell.
+The material component for this spell is a magical item known as the philosopher's 
+egg, which is an enchanted retort used to hold the alchemical mixture. The egg is not 
+destroyed upon completion of the spell and may be used again. (Further details about the 
+philosopher's egg are found in Chapter 4 of this book.) 
+
+ Hornung's Surge Selector* (Alteration) 
+Range: 0
+Components: V, S, M
+Duration: Special
+Casting Time: 1 round
+Area of Effect: The caster
+Saving Throw: None
+The great Hornung, having been blasted more than once by his own wild surges, 
+devised a method of improving the results of wild magic and, not incidentally, his own 
+chances of survival. The result was Hornung's surge selector.
+By casting this spell, the wild mage gains greater control over wild surges. When the 
+caster's spell creates a wild surge, two separate results are determined from Table 2. The 
+caster can then choose which of the two results will take effect. This spell can be used in 
+conjunction with Nahal's reckless dweomer.
+The spell's duration is a fixed number of surges or 12 hours, whichever comes first. 
+The wild mage is able to shape one wild surge per five levels of his experience; thus, a 
+15th-level caster could shape three wild surges within a 12-hour period. At the end of 12 
+hours, the spell expires, regardless of the number of surges remaining.
+The material component is a brass spinner. 
+
+ Impervious Sanctity of Mind
+(Abjuration)
+Sphere: Protection, Thought
+Range: 0 Components: V, S, M
+Duration: 1 turn/level Casting Time: 1 round
+Area of Effect: The caster Saving Throw: None
+Subtlety: +6 Knockdown: None
+Sensory: None Critical: None
+When using this spell, the priest renders his mind completely immune to any 
+mind-affecting spell, power, or psionic effect. This includes amnesia, awe, beguiling, 
+charm, command, confusion, domination, emotion, empathy, ESP, fascination, fear, 
+feeblemind, hold, hypnotism, insanity, magic jar, mind blast, phantasmal killer, 
+possession, rulership, sleep, soul trapping, suggestion, telepathy, and any psionic attack 
+or power of the telepathic discipline. In short, if the spell or effect coerces the priest into 
+taking an action or forming an impression that he doesn’t wish to, it fails while 
+impervious sanctity of mind is in effect. The only mind-affecting spells or powers that 
+can affect the protected priest are those of exceedingly powerful creatures or artifacts and 
+relics.
+Unlike the wizard spell mind blank, the impervious sanctity of mind offers no 
+protection against detection or scrying. However, it is effective against some attacks and 
+powers that mind blank is powerless against. The spell requires a small ring of lead that 
+was once breathed upon by a red dragon.
+
+
+ Intensify Summoning (Conjuration/Summoning, Necromancy)
+Range: Special
+Components: V, S, M
+Duration: 1 turn
+Casting Time: 6
+Area of Effect: Special
+Saving Throw: None 
+This spell enhances the strength of creatures summoned by the caster via 1st through 
+6th level conjuration/summoning spells. Only spells which bring summoned creatures to 
+the wizard are affected.
+The first two conjuration/summoning spells cast by the wizard within one turn 
+following the intensify summoning spell are affected. Summoned creatures gain 2 hit 
+points per hit die. The affected creatures retain their bonus hit points until the normal 
+expiration of the spell that summoned them. 
+The material components are a small leather pouch and a miniature silver candelabra. 
+
+ Limited Wish
+(Conjuration/Summoning, Invocation/Evocation)
+Range: Unlimited Components: V
+Duration: Special Casting Time: Special
+Area of Effect: Special Saving Throw: Special
+The limited wish is a very potent but difficult spell. It will fulfill literally, but only
+partially or for a limited duration, the utterance of the spellcaster. Thus, the actuality of
+the past, present, or future might be altered (but possibly only for the wizard unless the
+wording of the spell is most carefully stated) in some limited manner. The use of a
+limited wish will not substantially change major realities, nor will it bring wealth or
+experience merely by asking. The spell can, for example, restore some hit points (or all
+hit points for a limited duration) lost by the wizard. It can reduce opponent hit
+probabilities or damage, increase duration of some magical effect, cause a creature to be
+favorably disposed to the spellcaster, mimic a spell of 7th level or less, and so on (see the
+9th-level wish spell). Greedy desires usually end in disaster for the wisher. Casting time
+is based on the time spent preparing the wording for the spell (clever players decide what
+they want to say before using the spell). Normally, the casting time is one round (most of
+it being taken up by deciding what to say). Casting this spell ages the caster one year per
+100 years of regular life span.
+
+ Malec-Keth's Flame Fist (Evocation) 
+Range: 0
+Components: V, S
+Duration: 1 round/level
+Casting Time: 1
+Area of Effect: One creature or object
+Saving Throw: Special 
+When this spell is completed, one of the caster's hands (his choice) bursts into light 
+and is surrounded by an aura of flame. The caster suffers no damage from this effect. 
+Illumination is equal to that of a torch.
+If the wizard successfully touches an opponent, the subject must attempt a saving 
+throw. If the roll is successful, the flame remains on the caster's hand (and he may use it 
+to make further attacks until the spell's duration expires) and the touched creature suffers 
+1d4+2 points of fire damage. If the save is failed, the flame leaves the caster's hand to 
+surround the victim's body in an aura of searing fire. The superheated aura burns for 1 
+round, inflicting 1d4 points of damage per level of the caster.
+Instead of attacking a creature, the caster may choose to touch any single object, 
+which is automatically surrounded by the searing aura for 1 round and must succeed at an 
+item saving throw vs. magical fire or be destroyed. The aura can surround an object up to 
+5 cubic feet in volume per level of the caster. 
+
+ Mass Invisibility
+(Illusion/Phantasm)
+Range: 10 yds./level Components: V, S, M
+Duration: Special Casting Time: 7
+Area of Effect: 60 x 60 yds. Saving Throw: None
+This is a more extensive adaptation of the invisibility spell for battlefield use. It can
+hide creatures in a 60-yard x 60-yard area: up to 400 man-sized creatures, 30 to 40 giants,
+or six to eight large dragons. The effect is mobile with the unit and is broken when the
+unit attacks. Individuals leaving the unit become visible. The wizard can end this spell
+upon command.
+The material components of the mass invisibility spell are an eyelash and a bit of gum
+arabic, the former encased in the latter.
+
+ Monster Summoning V
+(Conjuration/Summoning)
+Range: Special Components: V, S, M
+Duration: 6 rds. + 1 rd./level Casting Time: 6
+Area of Effect: 70-yd. radius Saving Throw: None
+This spell is much like the 3rd-level monster summoning I spell, except that this spell
+summons 1d3 5th-level monsters. These appear within the spell's area of effect and attack
+the caster's opponents until either he commands them to cease, the spell duration expires,
+or the monsters are slain. These creatures do not check morale, and they vanish when
+slain. If no opponent exists to fight, summoned monsters can, if the wizard can
+communicate with them, and if they are physically capable, perform other services for the
+summoning wizard.
+The material components of this spell are a tiny bag and a small (not necessarily lit)
+candle.
+
+ Mordenkainen's Magnificent Mansion
+(Alteration, Conjuration)
+Range: 10 yds. Components: V, S, M
+Duration: 1 hr./level Casting Time: 7 rds.
+Area of Effect: 300 sq. ft./level Saving Throw: None
+By means of this spell, the wizard conjures up an extradimensional dwelling, entrance
+to which can be gained only at a single point of space on the plane from which the spell
+was cast. From the entry point, those creatures observing the area see only a faint
+shimmering in the air, in an area 4 feet wide and 8 feet high. The caster of the spell
+controls entry to the mansion, and the portal is shut and made invisible behind him when
+he enters. He may open it again from his own side at will. Once observers have passed
+beyond the entrance, they behold a magnificent foyer and numerous chambers beyond.
+The place is furnished and contains sufficient foodstuffs to serve a nine-course banquet to
+as many dozens of people as the spellcaster has levels of experience. There is a staff of
+near-transparent servants, liveried and obedient, to wait upon all who enter. The
+atmosphere is clean, fresh, and warm.
+Since the place can be entered only through its special portal, outside conditions do not
+affect the mansion, nor do conditions inside it pass to the plane beyond. Rest and
+relaxation within the place is normal, but the food is not. It seems excellent and quite
+filling as long as one is within the place. Once outside, however, its effects disappear
+immediately, and if those resting have not eaten real food within a reasonable time span,
+ravenous hunger strikes. Failure to eat normal food immediately results in the onset of
+fatigue or starvation penalties as decided by the DM.
+The material components of this spell are a miniature portal carved from ivory, a small
+piece of polished marble, and a tiny silver spoon. These are utterly destroyed when the
+spell is cast.
+(It is worth mentioning that this spell has been used in conjunction with a normal
+portal, as well as with illusion magic. There is evidence that the design and interior of the
+space created can be altered to suit the caster's wishes.)
+
+ Mordenkainen's Sword
+(Evocation)
+Range: 30 yds. Components: V, S, M
+Duration: 1 rd./level Casting Time: 7
+Area of Effect: Special Saving Throw: None
+Upon casting this spell, the wizard brings into being a shimmering, swordlike plane of
+force. The spellcaster is able to mentally wield this weapon (to the exclusion of all
+activities other than movement), causing it to move and strike as if it were being used by
+a fighter. The basic chance for Mordenkainen's sword to hit is the same as the chance for
+a sword wielded by a fighter of half the level of the spellcaster. For example, if cast by a
+14th-level wizard, the weapon has the same hit probability as a sword wielded by a 7thlevel fighter.
+The sword has no magical attack bonuses, but it can hit nearly any sort of opponent,
+even those normally struck only by +3 weapons or those who are astral, ethereal, or out
+of phase. It hits any Armor Class on a roll of 19 or 20. It inflicts 5d4 points of damage to
+opponents of man size or smaller, and 5d6 points of damage to opponents larger than man
+size. It lasts until the spell duration expires, a dispel magic is used successfully upon it, or
+its caster no longer desires it.
+The material component is a miniature platinum sword with a grip and pommel of
+copper and zinc, which costs 500 gp to construct, and which disappears after the spell's
+completion.
+
+ Neutralize Gas
+(Abjuration, Elemental Air, Alchemy)
+Range: 60 yards Components: V, S, M
+Duration: Instantaneous Casting Time: 1
+Area of Effect: One 10-ft. cube/lvl. Saving Throw: None
+Subtlety: +5 Knockdown: None
+Sensory: Large visual/olfactory Critical: None
+By using this spell, the wizard renders inert and makes breathable any harmful 
+vapors, gases, clouds, or fogs in the area of effect. This includes stinking cloud, cloudkill, 
+solid fog, death fog, incendiary cloud, acid storm, gaseous breath weapons, spore or mold 
+clouds, and similar spells and effects. Harmful gas or vapor is transformed into a 
+common, harmless fog cloud of the same dimensions as the original effect, and then 
+dissipates 1d3 rounds later. Creatures who were injured before neutralize gas is cast 
+continue to suffer any effects from their previous exposure—the spell does not heal or 
+counter existing damage, so a creature that is choking and gagging from a stinking cloud 
+would receive no relief from this dweomer.
+If cast in the same round of the effect’s appearance, neutralize gas may be used to 
+counter gaseous breath weapons, spores, and molds by granting any creatures affected a 
++4 bonus to their saving throws and reducing any damage to one-half or one-quarter 
+normal, depending on whether or not the victims make their saving throws. Air-based 
+creatures are not affected by this spell; neutralize gas only “clears the air” of any harmful 
+inhalants. The material components are a bit of charcoal and some bark from a treant.
+
+ Persistence
+(Invocation/Evocation)
+Range: 0 Components: V, S, M
+Duration: 1 day/level Casting Time: 1 turn
+Area of Effect: The caster Saving Throw: None
+Subtlety: +6 Knockdown: None
+Sensory: None Critical: None
+Related to both the contingency and permanency spells, persistence allows a 
+wizard to cast a spell of 6th level or lower and then hold it until it is needed. There are 
+two general uses for persistence: to use a personal spell effect as needed up to the 
+maximum duration of the persistence itself, or to prepare an instantaneous spell and hold 
+it ready until the caster wishes to use it.
+A. Personal effect. Any spell that augments the wizard’s natural abilities—detect 
+magic, protection from evil, jump, infravision, fly, wraithform, or other caster-affecting 
+spells—can be made persistent by use of this spell. The wizard casts persistence and then 
+immediately follows with the desired spell. Instead of taking effect immediately, the 
+magic of the persistence holds it ready for use by a simple act of will. The wizard can 
+then “turn on” or “turn off” the girded spell as often as he likes over the course of the 
+duration of the persistence. The duration of the girded spell only runs while the spell is 
+active, so a 15th-level wizard who makes a fly spell persistent will be able to use 1d6+15 
+turns of flight (the normal duration of fly) over the next 15 days (the duration of the 
+persistence) as he sees fit.
+This is especially useful because it allows the wizard to cast the girded spell and 
+the persistence and have the girded spell’s effects available while he then memorizes 
+another spell in place of the spell made persistent. It is also useful because the girded 
+spell can be activated instantly by an act of will. The main difference between this spell 
+and contingency lies in the fact that a persistent spell may be invoked several times (up to 
+the limit of its normal duration) while a contingency functions once only.
+B. Held spell. Spells that have an instantaneous effect, such as most attack spells 
+and some movement spells like teleport or dimension door, can be rendered persistent as 
+well. The held spell may be activated or discharged at any time during the duration of the 
+persistence, but its magic is then exhausted as if it had been cast normally. This 
+resembles the effect of a contingency spell, but the effect has no predefined conditions 
+and simply occurs when the caster wills it to.
+Damaging or offensive spells that have a duration (for example, flaming sphere or 
+wall of fire) cannot be rendered persistent. A wizard may have no more than one 
+persistence spell active at any given time; if he girds a new spell while an old one is still 
+persistent, the old spell is simply replaced by the new one. The material component is a 
+crystal chalice of exquisite workmanship worth at least 2,000 gp. The material 
+component of a held or girded spell is expended when the spell is made persistent.
+
+ Phase Door
+(Alteration)
+Range: Touch Components: V
+Duration: 1 usage/2 levels Casting Time: 7
+Area of Effect: Special Saving Throw: None
+When this spell is cast, the wizard attunes his body, and a section of wall is affected as 
+if by a passwall spell. The phase door is invisible to all creatures save the spellcaster, and
+only he can use the space or passage the spell creates, disappearing when the phase door
+is entered, and appearing when it is exited. If the caster desires, one other creature of man
+size or less can be taken through the door; this counts as two uses of the door. The door
+does not pass light, sound, or spell effects, nor can the caster see through it without using
+it. Thus, the spell can provide an escape route, though certain creatures, such as phase
+spiders, can follow with ease. A gem of true seeing and similar magic will reveal the
+presence of a phase door but will not allow its use.
+The phase door lasts for one usage for every two levels of experience of the spellcaster.
+It can be dispelled only by a casting of dispel magic from a higher-level wizard, or from
+several lower-level wizards, casting in concert, whose combined levels of experience are
+more than double that of the wizard who cast the spell (this is the only instance in which
+dispel effects can be combined).
+Rumor has it that this spell has been adapted by a certain powerful wizard (or wizards)
+to create renewable (or permanent) portals, which may (or may not) be keyed to specific
+individuals (henchmen) or items (such as rings).
+
+ Power Word, Stun
+(Conjuration/Summoning)
+Range: 5 yds./level Components: V
+Duration: Special Casting Time: 1
+Area of Effect: 1 creature Saving Throw: None
+When a power word, stun spell is uttered, any creature of the wizard's choice is
+stunned--reeling and unable to think coherently or act--for a duration dependent on its
+current hit points. Of course, the wizard must be facing the creature, and the creature
+must be within the range of 5 yards per experience level of the caster. Creatures with 1 to
+30 hit points are stunned for 4d4 rounds, those with 31 to 60 hit points are stunned for
+2d4 rounds, those with 61 to 90 hit points are stunned for 1d4 rounds, and creatures with
+over 90 hit points are not affected. Note that if a creature is weakened so that its hit points
+are below its usual maximum, the current number of hit points is used.
+
+ Prismatic Spray
+(Conjuration/Summoning)
+Range: 0 Components: V, S
+Duration: Instantaneous Casting Time: 7
+Area of Effect: 70 x 15 ft. spray Saving Throw: Special
+When this spell is cast, the wizard causes seven shimmering, multicolored rays of light
+to flash from his hand in a triangular spray. This spray is 70 feet long and spreads to 15
+feet wide at the end. It includes all colors of the visible spectrum; each ray has a different
+power and purpose. Any creature with fewer than 8 Hit Dice struck by a ray is blinded for
+2d4 rounds, regardless of any other effect.
+Any creature in the area of effect will be touched by one or more of the rays. To 
+determine which ray strikes a creature, roll 1d8 and consult the following table:
+Prismatic Spray Results
+1 = red 
+2 = orange 
+3 = yellow 
+4 = green 
+5 = blue
+6 = indigo
+7 = violet
+8 = struck by two rays, roll again twice (ignoring any 8s)
+
+Color      |Order     |
+of Ray     |of Ray    |Effect of Ray
+Red        | 1st      | Inflicts 20 points of damage, save vs. spell for half.
+Orange     | 2nd      | Inflicts 40 points of damage, save vs. spell for half.
+Yellow     | 3rd      | Inflicts 80 points of damage, save vs. spell for half.
+Green      | 4th      | Save vs. poison or die; survivors suffer 20 points of poison damage.
+Blue       | 5th      | Save vs. petrification or be turned to stone.
+Indigo     | 6th      | Save vs. wand or go insane.
+Violet     | 7th      | Save vs. spell or be sent to another plane.
+
+ Reverse Gravity
+(Alteration)
+Range: 5 yds./level Components: V, S, M
+Duration: 1 rd./level Casting Time: 7
+Area of Effect: 30 ft. x 30 ft. Saving Throw: None
+This spell reverses gravity in the area of effect, causing all unattached objects and
+creatures within it to "fall" upward. The reverse gravity lasts as long as the caster desires
+or until the spell expires. If some solid object is encountered in this "fall," the object
+strikes it in the same manner as it would during a normal downward fall. At the end of
+the spell duration, the affected objects and creatures fall downward. As the spell affects
+an area, objects tens, hundreds, or even thousands of feet in the air above the area can be
+affected.
+The material components of this spell are a lodestone and iron filings.
+
+ Sequester
+(Illusion/Phantasm, Abjuration)
+Range: Touch Components: V, S, M
+Duration: 1 week + 1 day/level Casting Time: 7
+Area of Effect: 2-ft. cube/level Saving Throw: Special
+When cast, this spell not only prevents detection and location spells from working to
+detect or locate the objects affected by the sequester spell, it also renders the affected
+object(s) invisible to any form of sight or seeing. Thus, a sequester spell can mask a 
+secret door, a treasure vault, etc. Of course, the spell does not prevent the subject from
+being discovered through tactile means or through the use of devices (such as a robe of
+eyes or a gem of seeing). If cast upon a creature who is unwilling to be affected, the
+creature receives a normal saving throw. Living creatures (and even undead types)
+affected by a sequester spell become comatose and are effectively in a state of suspended
+animation until the spell wears off or is dispelled.
+The material components of the spell are a basilisk eyelash, gum arabic, and a dram of
+whitewash.
+
+ Seven-Eyes
+(Abjuration, Conjuration/Summoning)
+Range: 0 Components: V, S, M
+Duration: 1 rd./level Casting Time: 7
+Area of Effect: Create 7 eyes Saving Throw: Special
+Subtlety: +5 Knockdown: Varies
+Sensory: Medium visual Critical: Varies
+This spell conjures into existence seven magical orbs that float above the caster’s 
+head in a ring about 5 feet in diameter. The eyes remain for 1 round per level, or until the 
+caster chooses to either expend the orb by using it in attack or defense. In addition, as 
+long as at least one eye is still in existence, the caster gains 360° vision and can detect 
+invisibility and detect phase at will, with a 60-foot range. The powers of each eye are 
+described below.
+Eye of the Mind. This orb protects the caster against mental attack, charm, or 
+influence, including charm, beguiling, hold, and emotion effects. The first such attack is 
+negated by the orb and destroys it in turn. If the wizard desires, the eye of the mind can 
+instead be used to charm person like the 1st-level wizard spell, although this also 
+expends the orb.
+Eye of the Sword. This eye deflects the first physical attack that endangers the 
+caster, including hand-held or missile attacks, and then disappears. The wizard can also 
+employ the eye of the sword to create five magical blades that strike as magic missiles for 
+1d4+1 points of damage each. (Knockdown d6, medium (1 hit) impact)
+Eye of the Mage. One manifestation of raw energy, such as lightning, fire, force, 
+cold, or a similar effect, is absorbed by the eye of the mage. The eye can also project a 
+60-foot long by 5-foot wide lightning bolt that inflicts 4d8 damage (saving throw vs. spell 
+for half damage) to all in its path. Either use expends the eye’s power. (Knockdown d12, 
+large (1–3 hits) electricity)
+Eye of Venom. This eye can be used to halt any one attack or effect that could 
+poison the caster. In the case of an attacker armed with an envenomed weapon, the caster 
+may decide to expend either the eye of venom or the eye of swords in order to block the 
+attack. The eye can also be used to poison one creature within 30 feet; the victim must 
+make a saving throw vs. poison or die in one round.
+Eye of the Spirit. The first attack that affects the victim’s life energy, including 
+energy drain, strength drain, cause wounds, trap the soul, magic jar, or death is parried 
+by the eye of the spirit. The wizard may instead choose to expend the eye’s power by 
+casting enervation (see the 4th-level wizard spell) upon one target within 30 feet.
+Eye of Artifice. This eye deflects and is destroyed by the first attack directed at 
+the caster from a magical device. If the attack also takes a form that may be blocked by 
+another eye (for example, the bolt from a wand of lightning) the caster may choose which 
+eye is expended. If used to attack instead, the eye of artifice functions as a dispel magic 
+cast at 8th level.
+Eye of Stone. This eye offers protection against the first attack that could petrify 
+the caster and then vanishes. It can also be expended to cast hold person.
+Although any number of eyes can defend the wizard in the course of a single 
+round, only one eye may be used to attack per round. When the caster uses an eye to 
+attack, he may not cast a spell, attack physically, or employ another magical item in the 
+same round; willing the eye to discharge its energies requires his complete concentration. 
+Eye attacks are considered to have an initiative modifier of 1 or a speed of very fast in the 
+Player’s Option: Combat & Tactics initiative system.
+The material component is seven blessed gemstones worth at least 50 gold pieces 
+each.
+
+
+ Shadowcat (Illusion) 
+Range: 10 yards/level
+Components: V, S, M
+Duration: 1 turn/level
+Casting Time: 3
+Area of Effect: Special
+Saving Throw: None 
+When this spell is cast, the wizard brings into being a cat made of shadow. The 
+shadowcat is the size of a normal cat and may be either grey or black at the caster's 
+option. The caster has complete telepathic control of the feline; he can see, hear, and even 
+speak through it as long as it remains within range. At the moment it moves out of range, 
+the shadowcat vanishes. The caster does not need to concentrate on the shadowcat.
+The shadowy feline is insubstantial, making subject only to magical or special 
+attacks, including those by weapons of +1 or better. It has AC 5, a movement rate of 18, 
+and saving throws equal to those of the caster. The cat dissipates if it loses hit points 
+equal to one-half the caster's total hit points. The shadowcat has no attacks of its own and 
+cannot touch or carry objects. A successful dispel magic spell causes the cat to vanish.
+A shadowcat makes no sound as it moves. It is 90% undetectable in all but the 
+brightest conditions. It can pass through small holes or narrow openings.
+The material components of this spell are a black pearl of at least 100 gp value and a 
+claw from a grey or black cat. 
+
+ Shadow Walk
+(Illusion, Enchantment)
+Range: Touch Components: V, S
+Duration: 6 turns/level Casting Time: 1
+Area of Effect: Special Saving Throw: None
+In order to use the shadow walk spell, the wizard must be in an area of heavy shadows.
+The caster and any creature he touches are then transported to the edge of the Prime
+Material Plane where it borders the Demiplane of Shadow. In this region, the wizard can
+move at a rate of up to 7 miles per turn, moving normally on the borders of the
+Demiplane of Shadow but much more rapidly relative to the Prime Material Plane. Thus,
+a wizard can use this spell to travel rapidly by stepping onto the Demiplane of Shadow,
+moving the desired distance, and then stepping back onto the Prime Material Plane. The
+wizard knows where he will come out on the Prime Material Plane.
+The shadow walk spell can also be used to travel to other planes that border on the
+Demiplane of Shadow, but this requires the potentially perilous transit of the Demiplane
+of Shadow to arrive at a border with another plane of reality.
+Any creatures touched by the wizard when shadow walk is cast also make the
+transition to the borders of the Demiplane of Shadow. They may opt to follow the wizard,
+wander off through the plane, or stumble back into the Prime Material Plane (50% chance
+for either result if they are lost or abandoned by the wizard). Creatures unwilling to
+accompany the wizard into the Demiplane of Shadow receive a saving throw, negating
+the effect if successful.
+
+ Simulacrum
+(Illusion/Phantasm)
+Range: Touch Components: V, S, M
+Duration: Permanent Casting Time: Special
+Area of Effect: 1 creature Saving Throw: None
+By means of this spell, the wizard is able to create a duplicate of any creature. The
+duplicate appears to be exactly the same as the original, but there are differences: The
+simulacrum has only 51% to 60% (50% + 1d10%) of the hit points of the real creature,
+there are personality differences, there are areas of knowledge that the duplicate does not
+have, and a detect magic spell will instantly reveal it as a simulacrum, as will a true 
+seeing spell. At all times the simulacrum remains under the absolute command of the
+wizard who created it. No special telepathic link exists, so command must be exercised in
+some other manner. The spell creates the form of the creature, but it is only a zombielike
+creation. A reincarnation spell must be used to give the duplicate a vital force, and a
+limited wish spell must be used to empower the duplicate with 40% to 65% (35% + 5 to
+30%) of the knowledge and personality of the original. The level of the simulacrum, if
+any, is from 20% to 50% of that of the original creature.
+The duplicate creature is formed from ice or snow. The spell is cast over the rough
+form and some piece of the creature to be duplicated must be placed inside the snow or
+ice. Additionally, the spell requires powdered ruby.
+The simulacrum has no ability to become more powerful; it cannot increase its level or
+abilities. If destroyed, it reverts to snow and melts into nothingness. Damage to the
+simulacrum can be repaired by a complex process requiring at least one day, 100 gp per
+hit point, and a fully equipped laboratory.
+
+ Spell Shape* (Alteration) 
+Range: 0
+Components: V, S, M
+Duration: 1d4+1 rounds
+Casting Time: 1 round
+Area of Effect: The caster
+Saving Throw: Special 
+This spell gives the wild mage the ability to seize magical energy directed at him and 
+reshape it as he desires. While it is in effect, the spell gives no visible sign of its 
+existence. It offers no protection against area effect spells.
+If a wild mage is the target of a spell or magical item, this spell automatically allows 
+him a saving throw. If the saving throw is failed, the opponent's spell has normal effects. 
+If the saving throw is successful, the spell shape absorbs the magical energy of the 
+opponent's spell. The wild mage can then choose to let the energy dissipate or he can 
+instantly use it to cast a spell back at the opposing mage. The return spell must be of an 
+equal or lesser spell level than the original one and must be currently memorized by the 
+mage. The act of returning the spell does not cost the wild mage any of his memorized 
+spells. Spell energy cannot be saved; if not used immediately, it dissipates.
+For example, Hamos, a wild mage, is protected by a spell shape and is struck by a 
+finger of death (a 7th-level spell). He succeeds at his saving throw and is now able to cast 
+a spell of 7th level or lower. Hamos currently has feeblemind memorized. Since it is only 
+a 5th-level spell, he chooses to cast it back at his enemy. He makes his level variation 
+check (and doesn't get a wild surge) and the feeblemind is sent hurtling back at his foe. 
+Hamos still has his original feeblemind memorized. The remaining two spell levels are 
+lost, since they were not used in the same round.
+If a wild mage is struck by two spells at once, he may choose which spell to shape. 
+He suffers all effects of the remaining spell.
+The material component is a diamond worth no less than 2,000 gp. When the spell is 
+cast, the diamond is transformed into a lump of coal. 
+
+ Spell Turning
+(Abjuration)
+Range: 0 Components: V, S, M
+Duration: Up to 3 rds./level Casting Time: 7
+Area of Effect: The caster Saving Throw: None
+This powerful abjuration causes spells cast against the wizard to rebound on the
+original caster. This includes spells cast from scrolls and innate spell-like abilities, but
+specifically excludes the following: area effects that are not centered directly upon the
+protected wizard, spell effects delivered by touch, and spell effects from devices such as
+wands, staves, etc. Thus, a light spell cast to blind the protected wizard could be turned
+back upon and possibly blind the caster, while the same spell would be unaffected if cast
+to light an area within which the protected wizard is standing.
+From seven to ten spell levels are affected by the turning. The exact number is secretly
+rolled by the DM; the player never knows for certain how effective the spell is.
+A spell may be only partially turned--divide the number of remaining levels that can be
+turned by the spell level of the incoming spell to see what fraction of the effect is turned,
+with the remainder affecting the caster. For example, an incoming fireball is centered on
+a wizard with one level of spell turning left. This means that 2/3 of the fireball affects the
+protected wizard, 1/3 affects the caster, and each is the center of a fireball effect. If the
+rolled damage is 40 points, the protected wizard receives 27 points of damage and the
+caster suffers 13. Both (and any creatures in the respective areas) can roll saving throws
+vs. spell for half damage. A partially turned hold or paralysis spell will act as a slow spell
+on those who are 50% or more affected.
+If the protected wizard and a spellcasting attacker both have spell turning effects
+operating, a resonating field is created that has the following effects: 
+
+D100 Roll | Effect
+01-70     | Spell drains away without effect
+71-80     | Spell affects both equally at full damage
+81-97     | Both turning effects are rendered nonfunctional for 1d4 turns
+98-00     | Both casters go through a rift into the Positive Energy plane
+
+The material component for the spell is a small silver mirror.
+
+ Statue
+(Alteration)
+Range: Touch Components: V, S, M
+Duration: 1 hr./level Casting Time: 7
+Area of Effect: Creature touched Saving Throw: Special
+When a statue spell is cast, the wizard or other creature is apparently turned to solid
+stone, along with any garments and equipment worn or carried. The initial transformation
+from flesh to stone requires one full round after the spell is cast.
+During the transformation, there's an 18% chance that the targeted creature suffers a
+system shock failure and dies. The creature must roll percentile dice and add its
+Constitution score to the roll. If the total is 18 or less, the creature dies. If the total is 19
+or more, the creature survives the transformation; the creature can withstand any
+inspection and appear to be a stone statue, although faint magic is detected from the stone
+if someone checks for it. Note that a creature with a Constitution of 18 or more will
+always survive the transformation.
+Despite being in this condition, the petrified individual can see, hear, and smell
+normally. Feeling is limited to those sensations that can affect the granite-hard substance
+of the individual's body--i.e., chipping is equal to a slight wound, but breaking off one of
+the statue's arms is serious damage.
+The individual under the magic of a statue spell can return to his normal state instantly,
+act, and then return to the statue state, if he so desires, as long as the spell duration is in
+effect.
+The material components of this spell are lime, sand, and a drop of water stirred by an
+iron bar, such as a nail or spike.
+
+ Steal Enchantment (Enchantment) 
+Range: Touch
+Components: V, S, M
+Duration: Permanent
+Casting Time: 1 hour
+Area of Effect: One item
+Saving Throw: Neg. 
+This spell "steals" the enchantment from a magical item and places it within another, 
+non-magical item (the material component). Both objects must be touched by the wizard 
+during casting. The two items must be of the same category (blunt weapon, edged 
+weapon, ring, amulet, shield, armor, wand, etc.).
+The enchantment can be transferred only to a nonmagical item. Only the energy of 
+one item can be transferred; it is not possible to combine two magical items into one 
+item. The new item has all the properties of the original magical item (including the same 
+number of charges, if any).
+At the culmination of the spell, the original magical object is allowed an item saving 
+throw vs. disintegration with all modifiers it is allowed as a magical item. Exceptionally 
+powerful objects (such as artifacts) may be considered to automatically succeed the 
+saving throw at the DM's discretion.
+If the saving throw is successful, the magical object resists the effect and the spell 
+ends in failure. If the roll is failed, the magical item loses all of its powers, which are 
+transferred to the previously nonmagical object.
+Even if the magical item fails its saving throw, the spell's success is not guaranteed. 
+There is a chance that the enchantment might be lost. The base chance of this occurring is 
+100%, modified by -5% per level of the caster. Thus, a 20th-level wizard has no chance 
+of losing the magic. If the enchantment is lost, both items become nonmagical.
+The material component is the nonmagical item which is to receive the enchantment. 
+It must be of equal or greater value than the object to be drained.
+
+ Suffocate (Alteration, Necromancy) 
+Range: 30 yards
+Components: V, S, M
+Duration: 1 round/level
+Casting Time: 7
+Area of Effect: 10-foot-radius circle
+Saving Throw: Neg.
+This spell draws the breath out of all creatures within the area of effect who fail a 
+saving throw. Their breath is placed within a small silk bag held by the caster.
+Each round, a victim of this spell must attempt a Constitution check. If failed, the 
+creature suffers 2d4 points of damage. If successful, the subject has taken in enough air to 
+reduce the damage to 1d4.
+As they struggle and gasp for air, affected creatures move and attack at half their 
+normal rates, have a -4 Armor Class penalty, an attack penalty of -4, and lose all 
+Dexterity combat bonuses.
+Effects of this spell continue each round regardless of whether the victims remain in 
+the original area of effect. The damage accumulates until the spell expires, the silk bag is 
+opened, or a successful dispel magic spell is cast upon the bag. The penalties to combat 
+remain in effect for 1d3 rounds after the spell ends.
+The material component is a small silk bag studded with black opals worth a total of 
+no less than 5,000 gp. The bag is not destroyed during casting, but becomes useless for 
+future castings if a successful dispel magic spell is used on it. 
+
+ Teleport Without Error
+(Alteration)
+Range: Touch Components: V
+Duration: Instantaneous Casting Time: 1
+Area of Effect: Special Saving Throw: None
+This spell is similar to the teleport spell. The caster is able to transport himself, along
+with the material weight noted for a teleport spell, to any known location in his home
+plane with no chance for error. The spell also enables the caster to travel to other planes
+of existence, but any such plane is, at best, "studied carefully." This assumes that the
+caster has, in fact, actually been to the plane and carefully perused an area for an eventual
+teleportation without error spell. The table for the teleport spell is used, with the caster's
+knowledge of the area to which transportation is desired used to determine the chance of 
+error. (For an exception, see the 9th-level wizard spell succor.) The caster can do nothing
+else in the round that he appears from a teleport.
+
+Tsunami
+(Conjuration/Summoning)
+Sphere: Elemental (Water)
+Range: 200 yds. + 50 yds./level Components: V, S, M
+Duration: Special Casting Time: 3 rds.
+Area of Effect: Wave 2 ft. high Saving Throw: None
+ and 10 ft. long per level
+Subtlety: +6 Knockdown: Special
+Sensory: Gargantuan visual, Critical: None
+ huge audio
+This mighty spell summons a tsunami, or gigantic wave, from any major body of 
+water. The body of water must be at least 1 mile in width, so in most circumstances the 
+tsunami can only be summoned from the sea, large lakes, or extremely big rivers. The 
+wave is 2 feet high and 10 feet long for each level of experience of the caster, so a 
+15th-level priest would summon a tsunami 30 feet high and 150 feet wide. The wave can 
+appear anywhere within the spell’s range and immediately sweeps forward in the 
+direction specified by the caster. This may take it out of the allowed range or even back at 
+the casting priest. The tsunami moves at a rate of 24 (240 yards per round) and lasts one 
+round at 14th level, two rounds at 18th level, or three rounds at 22nd or higher level.
+Ships caught by the tsunami must make a seaworthiness check (see Table 77: 
+Ship Types in the DMG) with a penalty equal to the wave’s height in feet. For example, a 
+tsunami created by a 15th-level caster would inflict a –30% penalty to a vessel’s 
+seaworthiness check. If the check is failed, the vessel capsizes and sinks in 1d10 rounds, 
+with the possible loss of those aboard. Human or humanoid swimmers caught in the wave 
+must make a saving throw vs. death magic or be drowned in the wave; any creature in the 
+water in the wave’s path will be carried along as long as it lasts.
+If the priest sent the wave towards the shore, the tsunami loses 5 feet of height for 
+every 20 yards it travels; a 30-foot wave could wash 120 yards inland before there was 
+nothing left of it. Creatures caught in the area sustain 1d4 points of damage for every 5 
+feet of height the tsunami currently possesses and are carried along until it ends. 
+Air-breathing creatures must make saving throws vs. death magic or be drowned outright 
+by this treatment. Wooden buildings have a chance equal to three times the wave’s 
+current height of being destroyed by the tsunami (90% for a 30-foot wave, for example) 
+while stone buildings have a chance equal to the wave’s height (or 30% for a 30-foot 
+wave). Topography may influence or channel the wave’s advance, so a good-sized hill 
+could stop a tsunami cold, although its seaward face may be denuded of creatures and 
+vegetation by the wave.
+Note that this spell in the hands of a high-level character can blanket an awesome 
+amount of territory and literally destroy or drown anything in its path. The tsunami is so 
+strenuous a spell that the priest is exhausted and helpless for 1d6 hours after summoning 
+it.
+
+ Vanish
+(Alteration)
+Range: Touch Components: V
+Duration: Special Casting Time: 2
+Area of Effect: 1 object Saving Throw: None
+When the wizard employs this spell, he causes an object to vanish (i.e., to be teleported
+as if by a teleport spell) if it weighs no more than 50 pounds per caster level. Thus, a
+14th-level caster can vanish, and cause to reappear at a desired location, an object up to
+700 pounds in weight. The maximum volume of material that can be affected is 3 cubic
+feet per level of experience. Thus, both weight and volume limit the spell. An object that
+exceeds either limitation is unaffected and the spell fails.
+If desired, a vanished object can be placed deep within the Ethereal Plane. In this case,
+the point from which the object vanished remains faintly magical until the item is
+retrieved. A successful dispel magic spell cast on the point will bring the vanished item
+back from the Ethereal Plane. Note that creatures and magical forces cannot be made to
+vanish.
+There is a 1% chance that a vanished item will be disintegrated instead. There is also a
+1% chance that a creature from the Ethereal Plane is able to gain access to the Prime
+Material Plane through the vanished item's connection.
+
+ Vision
+(Divination)
+Range: 0 Components: V, S, M
+Duration: Special Casting Time: 7
+Area of Effect: The caster Saving Throw: None
+When a wizard wishes to gain supernatural guidance, he casts a vision spell, calling
+upon whatever power he desires aid from and asking a question that will be answered
+with a vision. Two six-sided dice are rolled. If they total 2 to 6, the power is annoyed and
+refuses to answer the question; instead, the power causes the wizard to perform some
+service (by an ultrapowerful geas or quest). If the dice total 7 to 9, the power is
+indifferent and gives some minor vision, though it may be unrelated to the question. If the
+dice total 10 or better, the power grants the vision.
+The material component of the spell is the sacrifice of something valued by the
+spellcaster or by the power supplicated. The more precious the sacrifice, the better the
+chance of spell success. A very precious item grants a bonus of +1 to the dice roll, an
+extremely precious item adds +2, and a priceless item adds +3.
+
+ Zombie Double (Necromancy) 
+Range: 0
+Components: V, S, M
+Duration: 1 turn/level
+Casting Time: 1 turn
+Area of Effect: Special
+Saving Throw: None
+This spell creates a ju-ju zombie duplicate of the caster. The zombie double has the 
+same memories, consciousness, and alignment as the caster; essentially, the caster now 
+exists in two bodies simultaneously. In all other respects, the zombie double is the same 
+as a normal ju-ju zombie (AC 6; MV 9; HD 3+12; #AT 1; Dmg 3-12; SA strike as a 6 
+HD monster; SD immune to all mind-affecting spells, including illusions; immune to 
+sleep, charm, hold, death magic, magic missiles, electricity, poisons, and cold-based 
+spells; edged and cleaving weapons inflict normal damage while blunt and piercing 
+weapons inflict half- damage; magical and normal fire inflicts half-damage); THAC0 16. 
+The zombie double cannot cast spells, but it can use any weapons that the caster can 
+use. It is also able to climb walls as a thief (92 percent). The zombie double can be turned 
+as a spectre. If it strays more than 30 yards from the caster, the zombie double becomes 
+inactive and collapses to the ground; it becomes active again the instant the caster moves 
+within 30 yards. 
+The material components for this spell are a bit of wax from a black candle and a lock 
+of hair from the caster
+
+ Seventh-Level Spells
+
+ Age Dragon (Alteration) 
+Sphere: Time
+Range: 30 yards
+Components: V, S, M
+Duration: 1 round/level
+Casting Time: 1 round
+Area of Effect: One dragon
+Saving Throw: Neg. 
+This spell allows the caster to cause any dragon to temporarily gain or lose one age 
+level per five levels of the caster. For instance, a 14th-level caster could cause a dragon to 
+gain or lose two age levels; a mature adult dragon could be temporarily transformed into 
+a young adult dragon or into a very old dragon. A dragon's age cannot be reduced below
+hatchling or increased beyond great wyrm. 
+Unwilling dragons are allowed a saving throw vs. spells with a -4 penalty to avoid the 
+effect.
+A dragon affected by age dragon temporarily acquires the armor class, hit points, 
+spell abilities, combat modifiers, size, and other attributes of his new age level. The 
+dragon retains his memories and personality. At the end of the spell's duration, the dragon 
+returns to his normal age level.
+If the dragon suffered damage while experiencing his modified age, these hit points 
+remain lost when he resumes his normal age. If the dragon loses more hit points at his 
+modified age than he has at his actual age, he dies when the spell expires. For example, a 
+young adult bronze dragon with 110 hit points is aged to a mature adult with 120 hit 
+points. The dragon suffers 115 hit points in combat. Unless the dragon is healed of 6 
+points of damage before the spell expires, the dragon dies at the end of the spell since his 
+damage is greater than his actual hit points.
+If a dragon is killed while under the effect of age dragon, he is dead at the end of the 
+spell's duration.
+The material component is a handful of dirt taken from a dragon's footprint. 
+
+ Animate Rock
+(Alteration)
+Sphere: Elemental (Earth)
+Range: 40 yds. Components: V, S, M
+Duration: 1 rd./level Casting Time: 1 rd.
+Area of Effect: 2 cu. ft./level Saving Throw: None
+By employing an animate rock spell, the caster causes a stone object of up to the
+indicated size to move (see the 6th-level animate object spell.). The animated stone
+object must be separate (not a part of a huge boulder or the like). It follows the desire of
+the caster--attacking, breaking objects, blocking--while the magic lasts. It has no
+intelligence or volition of its own, but it follows instructions exactly as spoken. Only one
+set of instructions for one single action can be given to the animated rock, and the
+directions must be brief, about a dozen words or so. The rock remains animated for one
+round per experience level of the caster. The volume of rock that can be animated is also
+based on the experience level of the caster--2 cubic feet of stone per level, such as 24
+cubic feet, a mass of about man-sized, at 12th level.
+While the exact details of the animated rock are decided by the DM, its Armor Class is
+no worse than 5, and it has 1d3 hit points per cubic foot of volume. It uses the attack roll
+of the caster. The maximum damage it can inflict is 1d2 points per caster level. Thus, a
+12th-level caster's rock might inflict 12 to 24 points of damage. Movement for a man-sized 
+rock is 60 feet per round. A rock generally weighs from 100 to 300 pounds per
+cubic foot.
+The material components for the spell are a stone and drop of the caster's blood.
+
+ Astral Spell
+(Alteration)
+Sphere: Astral
+Range: Touch Components: V, S
+Duration: Special Casting Time: _ hour
+Area of Effect: Special Saving Throw: None
+By means of this spell, a priest is able to project his astral body into the Astral plane,
+leaving his physical body and material possessions behind on the Prime Material plane.
+As the Astral plane touches upon the first levels of all the outer planes, the priest can
+travel astrally to the first level of any of these outer planes as he wills. The priest then
+leaves the Astral plane, forming a body on the plane of existence he has chosen to enter.
+It is also possible to travel astrally anywhere in the Prime Material plane by means of the
+astral spell. However, a second body cannot be formed on the Prime Material plane.
+As a general rule, a person astrally projected can be seen only by creatures on the
+Astral plane. The astral body is connected at all times to the material body by a silvery
+cord. If the cord is broken, the affected person is killed, astrally and materially, but
+generally only the psychic wind can cause the cord to break. When a second body is
+formed on a different plane, the silvery cord remains invisibly attached to the new body.
+If the second body or astral form is slain, the cord simply returns to the caster's body
+where the body rests on the Prime Material plane, reviving it from its state of suspended
+animation. Although astral projections are able to function on the Astral plane, their
+actions affect only creatures existing on the Astral plane; a physical body must be
+materialized on other planes.
+The spell lasts until the priest desires to end it, or until it is terminated by some outside
+means, such as dispel magic spell or destruction of the priest's body on the Prime
+Material plane--which kills the priest. The priest can project the astral forms of up to
+seven other creatures with himself by means of the astral spell, providing the creatures
+are linked in a circle with the priest. These fellow travelers are dependent upon the priest
+and can be stranded if something happens to the priest. Travel in the Astral plane can be
+slow or fast, according to the priest's desire. The ultimate destination arrived at is subject
+to the desire of the priest.
+
+ Breath of Life (Necromantic) Reversible 
+Sphere: Necromantic
+Range: 0
+Components: V, S, M
+Duration: 1 hour/level
+Casting Time: 1 turn
+Area of Effect: Special
+Saving Throw: None 
+This powerful spell enables the caster to cure many persons (even an entire 
+community) who are afflicted with a nonmagical disease. The priest need not touch or 
+even see the diseased people for the spell to be effective, although recipients must be 
+within the area of effect.
+This spell does not cure all diseases in the community at one time; the caster must 
+specifically state which disease is to be eliminated (black plague or yellow fever, for 
+example) with each casting of the spell.
+When the spell is cast, the priest exhales a sweet-smelling breath. This forms into a 
+breeze that radiates outward, forming a circle that expands in a 50-yard radius per hour. 
+During this time, the caster must remain at the center of the area of effect. For example, 
+after 12 hours, the breath of life would cover a circle 1200 yards in diameter (600-yard 
+radius). The breath is of a magical nature rather than a physical nature; therefore, it is 
+unaffected by prevailing winds.
+The breeze blows through the community, instantly eliminating the specified disease 
+from all afflicted citizens. The breath of life spell does not destroy parasitic monsters 
+(such as green slime, rot grubs, and others), nor does it cure lycanthropy or other magical 
+afflictions. The spell does not prevent recurrence of a disease if the recipients are again 
+exposed.
+The material components are the priest's holy symbol and a cone of incense that has 
+been blessed by the highest priest of the character's religion.
+The breath of death, which produces a foul-smelling wind, is the reverse of this spell. 
+Victims who fail a saving throw vs. death magic are afflicted with a nonmagical, fatal 
+disease. To determine the results of this spell, the DM should roll saving throws for major 
+NPCs in the area of effect. The effect on the rest of the community can be calculated as a 
+percentage, based on the saving throw.
+Infected creatures do not heal hit points until the disease is cured. The disease is fatal 
+within 1d6 weeks (the duration varies from person to person).
+The material components are the priest's holy symbol and a handful of dust taken 
+from a mummy's corpse. 
+
+ Changestaff
+(Evocation, Enchantment)
+Sphere: Plant, Creation
+Range: Touch Components: V, S, M
+Duration: Special Casting Time: 4
+Area of Effect: The caster's staff Saving Throw: None
+By means of this spell, the caster is able to change a specially prepared staff into a
+treantlike creature of the largest size, about 24 feet tall. When the priest plants the end of
+the staff in the ground and speaks a special command and invocation, the staff turns into
+a treantlike creature with 12 Hit Dice, 40 hit points, and Armor Class 0. It attacks twice
+per round, inflicting 4d6 points of damage with every successful attack. The staff-treant
+defends the caster and obeys any spoken commands. However, it is by no means a true
+treant; it cannot converse with actual treants or control trees. The transformation lasts
+either for as many turns as the caster has experience levels, until the caster commands the
+staff to return to its true form, or until the staff is destroyed, whichever occurs first. If the
+staff-treant is reduced to 0 hit points or less, it crumbles to a sawdustlike powder and the
+staff is destroyed. Otherwise, the staff can be used again after 24 hours and the stafftreant is at full strength.
+To cast a changestaff spell, the caster must have either his holy symbol or leaves (ash,
+oak, or yew) of the same sort as the staff.
+The staff for the changestaff spell must be specially prepared. The staff must be a
+sound limb cut from an ash, oak, or yew tree struck by lightning no more than 24 hours
+before the limb is cut. The limb must then be cured by sun drying and special smoke for
+28 days. Then it must be shaped, carved, and polished for another 28 days. The caster
+cannot adventure or engage in other strenuous activity during either of these periods. The
+finished staff, engraved with woodland scenes, is then rubbed with the juice of holly
+berries, and the end of it is thrust into the earth of the caster's grove while he casts a
+speak with plant spell, calling upon the staff to assist in time of need. The item is then
+charged with a magic that will last for many changes from staff to treant and back again.
+
+ Chariot of Sustarre
+(Evocation)
+Sphere: Elemental (Fire), Creation
+Range: 10 yds. Components: V, S, M
+Duration: 12 hours Casting Time: 1 turn
+Area of Effect: Special Saving Throw: None
+When this spell is cast, it brings forth a large, flaming chariot pulled by two fiery
+horses from the elemental plane of Fire. These appear in a clap of thunder amid a cloud
+of smoke. The vehicle moves at 24 on the ground, 48 flying, and can carry the caster and
+up to seven other creatures of man-size or less. The passengers must be touched by the
+caster to protect them from the flames of the chariot. Creatures other than the caster and
+his designated passengers sustain 2d4 points of fire damage each round if they come
+within 5 feet of the horses or chariot. Such creatures suffer no damage if they evade the
+area by rolling successful saving throws vs. petrification, with Dexterity adjustments.
+The caster controls the chariot by verbal command, causing the flaming steeds to stop
+or go, walk, trot, run or fly, and turn left or right as he desires. Note that the chariot of
+Sustarre is a physical manifestation and can sustain damage. The vehicle and steeds are
+struck only by magical weapons or by water (one quart of which inflicts 1 point of
+damage). They are Armor Class 2, and each requires 30 points of damage to dispel.
+Naturally, fire has no effect upon either the vehicle or its steeds, but magical fires other
+than those of the chariot can affect the riders. Other spells, such as a successful dispel
+magic or holy word, will force the chariot back to its home plane, without its passengers.
+The chariot can be summoned only once per week.
+The material components are a small piece of wood, two holly berries, and a fire
+source at least equal to a torch.
+
+ Confusion
+(Enchantment/Charm)
+Sphere: Charm
+Range: 80 yds. Components: V, S, M
+Duration: 1 rd./level Casting Time: 1 rd.
+Area of Effect: 1d4 creatures in 40-ft. sq. Saving Throw: Special
+This spell causes confusion in one or more creatures within the area, creating
+indecision and the inability to take effective action. The spell affects 1d4 creatures, plus
+one creature per two caster levels. Thus, seven to ten creatures can be affected by a 12th
+ or 13th-level caster, eight to 11 by a 14th- or 15th-level caster, etc. These creatures are
+allowed saving throws vs. spell with -2 penalties, adjusted for Wisdom. Those
+successfully saving are unaffected by the spell. Confused creatures react as follows (roll
+1d10):
+
+d10  | Reaction
+ 1   | Wander away (unless prevented) for duration of spell
+2-6  | Stand confused one round (then roll again)
+7-9  | Attack nearest creature for one round (then roll again)
+ 10  | Act normally for one round (then roll again)
+
+The spell lasts one round for each level of the caster. Those who fail their saving
+throws are checked by the DM for actions each round, for the duration of the spell, or
+until the "wander away for the duration of the spell" result occurs.
+Wandering creatures move as far from the caster as possible in their most typical mode
+of movement (characters walk, fish swim, bats fly, etc.). This is not panicked flight.
+Wandering creatures also have a 50% chance of using any special innate movement
+abilities (plane shift, burrowing, flight, etc.). Saving throws and actions are checked at the
+beginning of each round. Any confused creature that is attacked perceives the attacker as
+an enemy and acts according to its basic nature.
+The material component of this spell is a set of three nut shells.
+Note: If there are many creatures involved, the DM may decide to assume average
+results. For example, if there are 16 orcs affected and 25% could be expected to
+successfully roll the saving throw, then four are assumed to have succeeded, one wanders
+away, four attack the nearest creature, six stand confused and the last acts normally but
+must check next round. Since the orcs are not near the party, the DM decides that two
+who are supposed to attack the nearest creature attack each other, one attacks an orc that
+saved, and one attacks a confused orc, which strikes back. The next round, the base is 11
+orcs, since four originally saved and one wandered off. Another one wanders off, five
+stands confused, four attack, and one acts normally.
+
+ Conjure Earth Elemental
+(Conjuration/Summoning)
+Reversible
+Sphere: Elemental (Earth), Summoning
+Range: 40 yds. Components: V, S
+Duration: 1 turn/level Casting Time: 1 turn
+Area of Effect: Special Saving Throw: None
+A caster who performs a conjure earth elemental spell summons an earth elemental to
+do his bidding. The elemental is 60% likely to have 12 Hit Dice, 35% likely to have 16
+Hit Dice, and 5% likely have 21 to 24 Hit Dice (20 + 1d4). Further, the caster needs but
+to command it, and it does as desired. The elemental regards the caster as a friend to be
+obeyed. The elemental remains until destroyed, dispelled, sent away by dismissal or a
+holy word spell (see the conjure fire elemental spell), or the spell duration expires.
+
+ Control Weather
+(Alteration)
+Sphere: Weather
+Range: 0 Components: V, S, M
+Duration: 4d12 hours Casting Time: 1 turn
+Area of Effect: 4d4 sq. miles Saving Throw: None
+The control weather spell enables a priest to change the weather in the local area. The
+spell affects the weather for 4d12 hours in an area of 4d4 square miles. It requires one
+turn to cast the spell, and an additional 1d4 turns for the effects of the spell to be felt. The
+current weather conditions are decided by the DM, depending on the climate and season.
+Weather conditions have three components: precipitation, temperature, and wind. The
+spell can change these conditions according to the following chart:
+
+Precipitation               |   Temperature    |    Wind           |
+CLEAR WEATHER               |     HOT          |    CALM           |
+ Very clear                 | Sweltering heat  |  Dead calm        |
+ Light clouds or hazy       | Warm             | Light wind        |
+PARTLY CLOUDY               | WARM             | Moderate wind     |
+ Clear weather              | Hot              | MODERATE WIND     |
+Cloudy                      | Cool             | Calm              |
+ Mist/light rain/small hail | COOL             | Strong wind       |
+ Sleet/light snow           | Warm             | STRONG WIND       |
+CLOUDY                      | Cold             | Moderate wind     |
+ Partly cloudy              | COLD             | Gale              |
+ Deep clouds                | Cool             | GALE              |
+ Fog Arctic                 | cold             | Strong wind       |
+ Heavy rain/large hail      |                  | Storm             |
+Driving sleet/heavy snow    |                  | STORM             |
+                            |                  | Gale              |
+                            |                  | Hurricane-typhoon |
+
+The upper-case headings represent existing weather conditions. The lower-case
+headings below are the new conditions to which the caster can change the existing
+conditions. In addition, the caster can control the direction of the wind. For example, a
+day that is clear, warm, and with moderate wind can be controlled to become hazy, hot,
+and calm. Contradictions are not possible--fog and strong wind, for example. Multiple
+control weather spells can be used only in succession.
+The material components for this spell are the priest's religious symbol, incense, and
+prayer beads or similar prayer object. Obviously, the spell functions only in areas where
+there are appropriate climatic conditions.
+If Weather is a major sphere for the priest (as it is for druids), duration and area are
+doubled, and the caster can change the prevailing weather by two places. For example, he
+can cause precipitation to go from partly cloudy to heavy sleet, temperature to go from
+cool to arctic, and wind to go from calm to strong.
+
+ Creeping Doom
+(Conjuration/Summoning)
+Sphere: Animal, Summoning
+Range: 0 Components: V, S
+Duration: 4 rds./level Casting Time: 1 rd.
+Area of Effect: Special Saving Throw: None
+When the caster utters the spell of creeping doom, he calls forth a mass of from 500 to
+1,000 ([1d6 + 4] x 100) venomous, biting and stinging arachnids, insects, and myriapods.
+This carpetlike mass swarms in an area 20 feet square. Upon command from the caster,
+the swarm creeps forth at 10 feet per round toward any prey within 80 yards, moving in
+the direction in which the caster commands. The creeping doom slays any creature
+subject to normal attacks, as each of the small horrors inflicts 1 point of damage (each
+then dies after its attack), so that up to 1,000 points of damage can be inflicted on
+creatures within the path of the creeping doom. If the creeping doom travels more than 80
+yards away from the summoner, it loses 50 of its number for each 10 yards beyond 80
+yards. For example, at 100 yards, its number has shrunk by 100. There are a number of
+ways to thwart or destroy the creatures forming the swarm. The solutions are left to the
+imaginations of players and DMs.
+
+ Divine Inspiration (Divination) 
+Sphere: Thought, Divination
+Range: 0
+Components: V, S, M
+Duration: Instantaneous
+Casting Time: 5
+Area of Effect: The caster
+Saving Throw: None
+This spell is a more powerful version of the genius spell. The priest's player may ask 
+the DM one question about the current situation or about events that will occur within the 
+next five rounds. Questions about the future must relate to external events, such as "Will 
+he guards respond to the sentry's yell?" Questions cannot refer to the outcome of combat, 
+such as "Will we win the battle?" The priest's player is allowed to use this spell to ask the 
+DM for advice. In this case, the spell is the equivalent of asking the gods, "Okay, how do 
+we get out of this one?"
+Like the genius spell, the DM must be careful in adjudicating this spell. The answer 
+to the question is always relevant and correct, although not necessarily complete. The 
+answer can also be cryptic, in the form of a riddle or rhyme, depending on the DM's 
+assessment of the situation and how potentially unbalancing the answer might be. In 
+general, the answer will be a short phrase of no more than eight to ten words.
+The material component is a gem of at least 500 gp value. This spell can be cast only 
+once in any 24-hour period. 
+
+ Earthquake
+(Alteration)
+Sphere: Elemental (Earth)
+Range: 120 yds. Components: V, S, M
+Duration: 1 rd. Casting Time: 1 turn
+Area of Effect: 5-ft. diameter/level Saving Throw: None
+When this spell is cast by a priest, a local tremor of fairly high strength rips the ground.
+The shock is over in one round. The earthquake affects all terrain, vegetation, structures,
+and creatures in its area of effect. The area of effect of the earthquake spell is circular,
+with a diameter of 5 feet for every experience level of the priest casting it. Thus a 20th
+ level priest casts an earthquake spell with a 100-foot-diameter area of effect.
+Solidly built structures with foundations reaching down to bedrock sustain one-half
+damage; one-quarter damage if they score above 50% on a saving throw. An earth
+elemental opposed to the caster in the area of effect can negate 10% to 100% (roll 1d10, 0
+= 100%) of the effect. Other magical protections and wards allowed by the DM may also
+reduce or negate this effect. If cast undersea, this spell may, at the discretion of the DM,
+create a tsunami or tidal wave.
+The material components for this spell are a pinch of dirt, a piece of rock, and a lump
+of clay.
+
+Earthquake Effects
+
+TERRAIN
+Cave or cavern--Collapses roof
+Cliffs--Crumble, causing landslide
+Ground--Cracks open, causing the following fractions of creatures to fall in and die:
+Size S: 1 in 4
+Size M: 1 in 6
+Size L: 1 in 8
+Marsh--Drains water to form muddy, rough ground.
+Tunnel--Caves in
+VEGETATION
+Small growth--No effect
+Trees--1 in 3 are uprooted and fall
+STRUCTURES
+All structures--Sustain 5d12 points of structural damage; those suffering full damage are
+thrown down in rubble
+CREATURES (See TERRAIN entry)
+
+ Exaction
+(Evocation, Alteration)
+Sphere: Charm, Summoning
+Range: 10 yds. Components: V, S, M
+Duration: Special Casting Time: 1 rd.
+Area of Effect: 1 creature Saving Throw: None
+When this spell is employed, the priest confronts some powerful creature from another
+plane (including devas and other powerful minions, for instance, but not demigods or
+deities of any sort) and requires of it some duty or quest. A creature of an alignment
+opposed to the priest (e.g., evil if the priest is good, chaotic if the priest is lawful) cannot
+be ordered around unless it is willing. Note that an absolute (true) neutral creature is
+effectively opposed to both good and evil, and both law and chaos.
+The spellcaster must know something about the creature to exact service from it, or
+else he must offer some fair trade in return for the service. That is, if the priest is aware
+that the creature has received some favor from someone of the priest's alignment, then the
+exaction spell can name this as cause. If no balancing reason for service is known, then
+some valuable gift or service must be pledged in return for the exaction. The service
+exacted must be reasonable with respect to the past or promised favor or reward, and with
+the being's effort and risk. The spell then acts, subject to a magic resistance roll, as a
+quest upon the being that is to perform the required service. Immediately upon
+completion of the service, the being is transported to the vicinity of the priest, and the
+priest must then and there return the promised reward, whether it is irrevocable
+cancellation of a past debt or the giving of some service or other material reward. After
+this is done, the creature is instantly freed to return to its own plane.
+The DM adjudicates when an equitable arrangement has been reached. If the caster
+requests too much, the creature is free to depart or to attack the priest (as if the agreement
+were breached) according to its nature. If circumstances leave the situation unbalanced
+(for example, the creature dies while achieving a result that was not worth dying for),
+then this might create a debt owed by the caster to the creature's surviving kith and kin,
+making the caster vulnerable to a future exaction spell from that quarter. Agreeing to a
+future exaction or release in the event of catastrophic failure or death are common caster
+pledges in securing an exaction.
+Failure to fulfill the promise to the letter results in the priest being subject to exaction
+by the subject creature or by its master, liege, etc., at the very least. At worst, the creature
+can attack the reneging priest without fear of any of his spells affecting it, for the priest's
+failure to live up to the bargain gives the creature immunity from the priest's spell
+powers.
+The material components of this spell are the priest's holy symbol, some matter or
+substance from the plane of the creature from whom an exaction is expected, and
+knowledge of the creature's nature or actions that is written out on a parchment that is
+burned to seal the pledge.
+
+ Fire Storm
+(Evocation)
+Reversible
+Sphere: Elemental (Fire)
+Range: 160 yds. Components: V, S
+Duration: 1 rd. Casting Time: 1 rd.
+Area of Effect: two 10-ft. cubes/level Saving Throw: _
+When a fire storm spell is cast, the whole area is shot through with sheets of roaring
+flame that equal a wall of fire spell in effect. Creatures within the area of fire and 10 feet
+or less from the edge of the affected area receive 2d8 points of damage plus additional
+damage equal to the caster's level (2d8 +1/level). Creatures that roll successful saving
+throws vs. spell suffer only one-half damage. The damage is inflicted each round the
+creature stays in the area of effect. The area of effect is equal to two 10-foot x 10-foot
+cubes per level of the cater--e.g., a 13th-level caster can cast a fire storm measuring 130
+feet x 20 feet x 10 feet. The height of the storm is 10 or 20 feet; the imbalance of its area
+must be in length and width.
+The reverse spell, fire quench, smothers twice the area of effect of a fire storm spell
+with respect to normal fires, and the normal area of effect with respect to magical fires.
+Fire-based creatures, such as elementals, salamanders, etc., of less than demigod status
+have a 5% chance per experience level of the caster of being extinguished. If cast only
+against a flametongue sword, the sword must roll a successful saving throw vs. crushing
+blow or be rendered nonmagical. Such a sword in the possession of a creature first
+receives the creature's saving throw, and if this is successful, the second saving throw is
+automatically successful.
+
+ Gate
+(Conjuration/Summoning)
+Sphere: Summoning
+Range: 30 yds. Components: V, S
+Duration: Special Casting Time: 5
+Area of Effect: Special Saving Throw: None
+Casting a gate spell has two effects: it causes an interdimensional connection between
+the plane of existence the priest is in and the plane in which dwells a specific being of
+great power. The result of this connection is that the sought-after being can step through
+the gate or portal, from its plane to that of the priest. Uttering the spell attracts the
+attention of the dweller on the other plane. When casting the spell, the priest must name
+the entity he desires to make use of the gate and to come to his aid. There is a 100%
+chance that something steps through the gate. The actions of the being that comes through
+depend on many factors, including the alignment of the priest, the nature of those
+accompanying him, and who or what opposes or threatens the priest. The DM will decide
+the exact result of the spell, based on the creature called, the desires of the caster and the
+needs of the moment. The being gates in either returns immediately or remains to take
+action. Casting this spell ages the priest five years.
+
+ Holy Word
+(Conjuration/Summoning)
+Reversible
+Sphere: Combat
+Range: 0 Components: V
+Duration: Special Casting Time: 1
+Area of Effect: 30-ft. radius Saving Throw: None
+Uttering a holy word spell creates magic of tremendous power. It drives off evil
+creatures from other planes, forcing them to return to their own planes of existence,
+provided the speaker is in his home plane. Creatures so banished cannot return for at least
+a day. The spell further affects creatures of differing alignment as shown on the following
+table:
+
+Effects of Holy Word
+
+Creature's
+Hit Dice or Level | General               | Attack Move | Dice | Spells
+Less than 4       | Kills                 | --          | --   | --
+4 to 7+           | Paralyzes 1d4 turns   | --          | --   | --
+8 to 11+          | Slows 2d4 rounds      | -50%        | -4*  | --
+12 or more        | Deafens 1d4 rounds    | -25%        | -2   | 50% chance of failure
+
+ * Slowed creatures attack only on even-numbered rounds until the effect wears off.
+
+Affected creatures are those within the 30-foot-radius area of effect, which is centered
+on the priest casting the spell. The side effects are negated for deafened or silenced
+creatures, but such are still driven off if other-planar.
+The reverse, unholy word, operates exactly the same way but affects creatures of good
+alignment.
+
+ Hovering Road (Conjuration/Summoning) 
+Sphere: Travelers
+Range: 0
+Components: V, S, M
+Duration: 1 turn/level
+Casting Time: 1 round
+Area of Effect: Special
+Saving Throw: None
+This spell enables the caster to create a magical 10-foot-wide road extending 10 feet 
+in front of him. The caster can create an unbroken road for the duration of the spell, 
+creating a 10-foot area ahead of him as long as he continues to move forward.
+The road is approximately one foot thick and hovers in the air. It has the texture and 
+color of black granite. Characters and creatures can move on the hovering road at their 
+normal movement rate, ignoring the effects of surrounding terrain.
+The hovering road must originate from a solid surface. Once anchored, the caster 
+controls the contour of the road, causing it to rise and fall as he wishes. The road can thus 
+be used to traverse rivers (if the road is anchored on the shore), swamps, and similarly 
+hostile terrain. The caster can cause the hovering road to rise over a jungle or cross a 
+chasm.
+The road has AC 0. It is impervious to non-magical weapons. If the road suffers 100 
+points of damage (from magical weapons or other magical forces), it dissipates in a black 
+mist; all those on the road fall to the ground below.
+Unless the road is destroyed, the entire hovering road remains intact from beginning 
+to end for the duration of the spell, even if the caster is killed or incapacitated. At the end 
+of the spell's duration, the entire road dissipates.
+The material components are a chunk of black marble and a loop of gold wire. 
+
+ Illusory Fortification (Illusion/Phantasm) 
+Sphere: War
+Range: 240 yards
+Components: V, S, M
+Duration: Special
+Casting Time: 10 turns
+Area of Effect: Special
+Saving Throw: None
+The ritual required to cast this spell is time-consuming and extremely complex. As its 
+name implies, illusory fortification creates an illusion of a wall of heavy stonework up to 
+30 feet tall and 160 yards long, topped with crenellations. The illusory wall can be of any 
+color and apparent age, potentially allowing the caster to match the false wall with the 
+real walls of an existing castle. The illusory wall must be continuous (it cannot form two 
+or more shorter walls), but it can follow any corners or bends that the caster desires.
+In addition to the wall, the spell creates the illusion of constant movement among the 
+crenellations, as if defending troops were moving atop the wall. The formation of the 
+crenellations makes it impossible for a distant observer to determine exactly how many 
+and what types of defenders are present on the illusory fortification.
+The illusory wall remains in existence for 2d12 hours unless the spell is terminated 
+earlier.
+The spell has one very significant limitation: it is strictly two-dimensional and is 
+visible from only one side (the side that the caster deems to be the "outside"). When 
+viewed from the outside, the wall appears real; when viewed from the end, from above, 
+or from the "inside," the wall is totally invisible except for a faint outline of the shape of 
+the wall. This means that friendly troops, concealed from enemy view by the illusory 
+wall, can see their opponents clearly. The wall is most effective if friendly troops are 
+informed of the wall's presence and are careful not to walk through the illusion. Such an 
+occurrence does not end the spell, but it will probably advise the enemy of the nature of 
+the wall.
+Spells cast at the wall and shots fired at the illusory fortification by siege engines 
+appear to strike the wall and inflict normal damage. In reality, the missiles or spells pass 
+through the illusion, possibly striking troops or real fortifications beyond. Such "hits" do 
+not disturb the illusion.
+As soon as an enemy unit moves within 10 yards of the illusory fortification, the spell 
+terminates and the wall vanishes.
+There are two ways in which the spell can be terminated before it expires. First, the 
+priest can terminate the spell at any time. Second, if a friendly unit makes an attack, 
+whether melee or missile combat, through the illusory wall from the "inside" to the 
+"outside," the spell terminates instantly.
+Once the illusory fortification has been created, the priest does not need to 
+concentrate on the wall. The spell remains in effect even if the casting priest is killed in 
+the interim.
+The material components are the priest's holy symbol, a handful of stones, powdered 
+mortar, and a gem worth at least 3,000 gp. All components except the holy symbol are 
+consumed in the casting. 
+
+ Mind Tracker (Divination) 
+Sphere: Divination
+Range: Special
+Components: V, S, M
+Duration: Special
+Casting Time: 1 turn/3
+Area of Effect: One creature
+Saving Throw: Special
+The mind tracker is a magically-created creature which exists only on the Ethereal 
+plane. It is called into existence when the first portion of this spell is cast.
+When seen (which is seldom), the mind tracker has an indistinct body. It seems to be 
+a near-solid coalescence of the vaporous atmosphere of the Ethereal plane itself. It is a 
+roughly elliptical body with three or more limbs protruding at seemingly random 
+locations. The number and size of these appendages shifts slowly, however, as new ones 
+appear from the mist and old ones disappear. The body of the creature averages 2 feet 
+across and 3 feet long, though this, too, tends to vary from minute to minute. The mind 
+tracker has no discernible eyes, ears, nose, or other organs. It cannot be engaged in 
+combat; if attacked, it simply disappears, to reappear after the danger has passed, or 
+somewhere else entirely if its quarry has moved on. 
+The ceremony which creates the mind tracker takes one turn to perform. Its material 
+components are a whiff of the Ethereal plane's atmosphere and the brain of a lizard.
+Once the tracker is manifested, it must be assigned a quarry within one hour. If no 
+quarry is designated, the tracker dissipates and the spell is wasted.
+To assign a quarry to the tracker, the priest must have the quarry within his sight. This 
+includes magical sight such as true seeing, but not remote sighting devices such as crystal 
+balls. With the quarry in sight, the priest mouths the final phrases of the spell. From that 
+point on, the mind tracker is mentally tethered to the victim. It follows its quarry (staying 
+always in the Ethereal plane) wherever it goes. It constantly relays information about the 
+subject to the priest: what it is doing, where it is. The priest does not actually see an 
+image of the quarry, he receives `reports' from the mind tracker. These reports contain 
+only such information as the tracker can gather by looking. It cannot identify people the 
+quarry is talking to, but can describe them in great detail. Nor can it hear anything the 
+quarry or anyone else says, or read writing, but it recognizes and can report the fact that 
+speaking or reading is happening. 
+While the tracker is dogging its quarry, its presence can be felt as an eery, creepy 
+sensation of being watched. If the victim makes an initial save vs. paralyzation, each of 
+the following stages lasts three hours instead of two. For the first two hours, the quarry 
+has a general feeling of ill ease. In the third and fourth hours, the victim is distracted and 
+nervous, and suffers a -1 penalty on all saving throws. In the fifth and sixth hours, the 
+victim is convinced someone or something is following him and suffers a -3 penalty on 
+saving throws and a -2 (or -10%) penalty on all other dice rolls. After six hours the victim 
+is near his breaking point. He is unable to concentrate to cast spells or use any of his 
+class's special abilities. All die rolls have a -5 (or -25%) penalty. After eight hours, he 
+must make a saving throw vs. paralyzation. If he fails, he collapses, fevered and delirious. 
+This state persists until the tracker ceases to exist. 
+The mind tracker continues to exist for as long as the priest remains conscious of its 
+input. If the priest is knocked out or falls asleep, or simply dismisses his creation, the 
+tracker dissipates. 
+
+ Regenerate
+(Necrmancy)
+Reversible
+Sphere: Necromatic
+Range: Touch Components: V,S,M
+Duration: Permanent Casting Time: 3 rounds
+Area of Effect: Creature touched Saving Throw: None
+When a regenerate spell is cast, body members (fingers, toes, hands, feet, arms, legs,
+tails, or even heads of multi-headed creatues), bones, and organs grow back. The process
+of regeneration requies but one round if the severed member(s) is (are) present and
+touching the creature, 2d4turns otherwise. The creature must be lving to receive the
+benefits of this spell. If the severed member is not present, or if the injury isolder than
+ond day per caste level, the recipient must roll a successful system shock check to survive
+the spell.
+The revers, wither, causes the member or organ touched to cease functioning in one
+round, dropping off into dust in 2d4 turns. Creatures must be touched for the harmful
+effect to occur.
+The material components of this spell are a prayer device and holy water (or unholy
+water for the reverse).
+
+ Reincarnate
+(Necromancy)
+Sphere: Necromantic
+Range: Touch Components: V, S
+Duration: Permanent Casting Time: 1 turn
+Area of Effect: 1 person Saving Throw: None
+With this spell, the priest can bring back a dead person in another body, if death
+occurred no more than one week before the casting of the spell. Reincarnation does not
+require any saving throw, system shock, or resurrection survival roll. The corpse is
+touched, and a new incarnation of the person appears in the area in 1d6 turns. The person
+reincarnated recalls the majority of his former life and form, but the character class, if
+any, of the new incarnation might be very different indeed. The new incarnation is
+determined on the following table or by DM choice. If a player character race is
+indicated, the character must be created. At the DM's option, certain special (expensive)
+incenses can be used that may increase the chance for a character to return as a specific
+race or species. A wish spell can restore a reincarnated character to its original form and
+status.
+
+D100
+Roll Incarnation
+01-03 Badger
+04-08 Bear, black
+09-12 Bear, brown
+13-16 Boar, wild
+17-19 Centaur
+20-23 Dryad
+24-28 Eagle
+29-31 Elf
+32-34 Faun/satyr
+35-36 Fox
+37-40 Gnome
+41-44 Hawk
+45-58 Human
+59-61 Lynx
+62-64 Owl
+65-68 Pixie
+69-70 Raccoon
+71-75 Stag
+76-80 Wolf
+81-85 Wolverine
+86-00 DM's choice
+
+If an unusual creature form is indicated, the DM can (at his option only) use the
+guidelines for new player character races to allow the character to earn experience and
+advance in levels, although this may not be in the same class as before. If the reincarnated
+character returns as a creature eligible to be the same class as he was previously (i.e., a
+human fighter returns as an elf), the reincarnated character has half his previous levels
+and hit points. If the character returns as a new character class, his hit points are half his
+previous total, but he must begin again at 1st level. If the character returns as a creature
+unable to have a class, he has half the hit points and saving throws of his previous
+incarnation.
+
+ Restoration
+(Necromancy)
+Reversible
+Sphere: Necromantic
+Range: Touch Components: V, S
+Duration: Permanent Casting Time: 3 rds.
+Area of Effect: 1 creature Saving Throw: None
+When this spell is cast, the life energy level of the recipient creature is raised by one.
+This reverses any previous life energy level drain of the creature by a force or monster.
+Thus, if a 10th-level character had been struck by a wight and drained to 9th level, the
+restoration spell would bring the character up to exactly the number of experience points
+necessary to restore him to 10th level once again, restoring additional Hit Dice (or hit
+points) and level functions accordingly. Restoration is effective only if the spell is cast
+within one day of the recipient's loss of life energy, per experience level of the priest
+casting it. A restoration spell restores the intelligence of a creature affected by a
+feeblemind spell. It also negates all forms of insanity. Casting this spell ages both the
+caster and the recipient by two years.
+The reverse, energy drain, draws away one life energy level (see such undead as
+spectre, wight, and vampire, in the Monstrous Manual). The energy drain requires the
+victim to be touched. Casting this form of the spell does not age the caster.
+
+ Resurrection
+(Necromancy)
+Reversible
+Sphere: Necromantic
+Range: Touch Components: V, S, M
+Duration: Permanent Casting Time: 1 turn
+Area of Effect: 1 creature Saving Throw: None
+The priest is able to restore life and complete strength to any living creature, including
+elves, by bestowing the resurrection spell. The creature can have been dead up to 10
+years per level of the priest casting the spell. Thus, a 19th-level priest can resurrect the
+bones of a creature dead up to 190 years. The creature, upon surviving a resurrection
+survival check, is immediately restored to full hit points and can perform strenuous
+activity. The spell cannot bring back a creature that has reached its allotted life span (i.e.,
+died of natural causes). Casting this spell makes it impossible for the priest to cast further
+spells or engage in combat until he has had one day of bed rest for each experience level
+or Hit Die of the creature brought back to life. The caster ages three years upon casting
+this spell.
+The reverse, destruction, causes the victim of the spell to be instantly dead and turned
+to dust. A wish spell or equivalent is required for recovery. Destruction requires a touch,
+either in combat or otherwise, and does not age the caster. In addition, the victim is
+allowed a saving throw (with a -4 penalty). If the save is successful, the victim receives
+8d6 points of damage instead.
+The material components of the spell are the priest's religious symbol and holy water
+(unholy water for the reverse spell). The DM may reduce the chances of successful
+resurrection if little of the creature's remains are available.
+
+ Shadow Engines (Illusion/Phantasm) 
+Sphere: War
+Range: 240 yards
+Components: V, S, M
+Duration: 8 turns
+Casting Time: 3 turns
+Area of Effect: 180-yard x 180-yard square
+Saving Throw: None
+This spell creates the illusion of as many as four siege engines. The casting priest may 
+choose from ballistae, siege towers, catapults, rams, or any combination thereof. Like the 
+creatures created by the spell shadow monsters, these illusory engines have at least a 
+tenuous reality and can inflict damage on enemies.
+Shadow engines are accompanied by illusory crews of the appropriate number and 
+race. The engines can move at a rate of 20 yards per turn and are unaffected by terrain 
+considerations. (The caster can choose to slow them when passing through rough terrain 
+to aid the illusion of reality.) 
+Shadow engines cannot carry real troops. They can be fired at the same rate as real 
+engines of the appropriate type, but a hit causes only one-half the damage normal for that 
+type of engine (round fractions down).
+A shadow engine remains in existence until the spell duration expires, until an enemy 
+unit approaches within 10 yards, or until it suffers damage from an enemy missile attack. 
+When any of these conditions occur, the engine vanishes. If a single spell has created 
+multiple engines, only the engine struck vanishes; the others remain.
+The crew associated with a shadow engine must remain with that engine; it cannot 
+move more than 5 yards away from the engine itself.
+Shadow engines can move independently of other engines created by the spell as long 
+as they remain within the area of effect and remain within 240 yards of the caster. The 
+caster must maintain concentration to control the shadow engines. He cannot cast any 
+other spells, and he is limited to a movement rate of 6. If the caster is struck for damage, 
+the shadow engines vanish.
+The material component is a finely detailed miniature model of a siege engine (of any 
+type), which is consumed during the casting. 
+
+ Spacewarp (Alteration) 
+Sphere: Numbers
+Range: 50 yards
+Components: V, S, M
+Duration: 1 round/level
+Casting Time: 7
+Area of Effect: 50-foot-diameter sphere
+Saving Throw: None
+According to one view of the universe, what we perceive as gravity is actually a 
+localized warping of the fabric of space-time. The spacewarp spell creates a temporary 
+but very intense warping in a limited area.
+When the priest casts this spell, he selects a specific point to be the center of effect. 
+This point may be anywhere within 50 yards of the caster, including in midair.
+When the spell is completed, this center of effect gains a gravity field equal to the 
+force felt at the surface of the earth. In other words, gravity is centered at this point; 
+everything within 50 feet of this center that is not attached to something immovable will 
+fall toward the selected point.
+This localized gravity affects only loose objects and creatures capable of movement 
+(i.e., not trees, whose roots are buried in the ground). It does not affect the ground itself--
+soil, plants, desert sand, lake water, etc. are immune to the effect.
+An object falling toward the center of gravity gains speed exactly as it would if it 
+were falling toward the ground. When the object reaches the center, it instantly ceases its 
+movement. If objects are already at the center, newly arriving objects will slam into them, 
+causing normal falling damage (1d6 per 10 feet) to the newly arriving objects. Objects 
+previously at the center must save vs. paralyzation or suffer half that amount of damage.
+Consider the following example. An orc is 10 feet away from the center of effect 
+when the spell is cast. He falls 10 feet to the center and stops. His companion, a bandit, is 
+30 feet from the center. It takes him longer to fall to the center, so the orc is already there 
+when he arrives, and the two characters collide forcefully. The bandit suffers 3d6 hit 
+points of damage--the falling damage associated with a 30-foot fall. The orc must save 
+vs. paralyzation or suffer half that amount.
+Other things are caught in the effect as well. The bandit's horse was 50 feet away 
+from the center of effect, so it arrives at the center after the orc and the bandit. It falls 50 
+feet, suffering 5d6 points of damage, and potentially inflicting half that amount on both 
+the orc and the bandit.
+The center of effect can be anywhere within 50 yards of the priest. Possibly one of the 
+most destructive uses of this spell is to cast it directly on an enemy creature. Everyone 
+and everything within 50 feet of that creature falls toward him and strikes him, inflicting 
+damage.
+When the spell terminates, gravity returns to normal. If the spell has lifted any 
+characters or objects off the ground, they immediately fall back to the ground, suffering 
+the appropriate amount of falling damage.
+The material components are a lodestone and a sphere of obsidian, both of which are 
+consumed in the casting. 
+
+ Spirit of Power (Summoning, Invocation) 
+Sphere: Summoning
+Range: 0
+Components: V, S, M
+Duration: 1 hour
+Casting Time: 3 turns
+Area of Effect: The casters
+Saving Throw: None
+This cooperative spell is rarely used or spoken of, since its requirements are strict and 
+the outcome is uncertain. The spell must be cast by six priests of the same faith. All six 
+must touch hands at the time of casting. At the completion of the spell, the priests fall 
+into a trance. The life essences of the priests leave their bodies and merge at a point 
+within 10 feet of the casters. The spirits of the priests meld together to form the avatar of 
+the priests' deity.
+In this manner, the six characters become a single being with all the powers and 
+abilities allowed to that avatar. The only stipulation is that the priests' deity cannot have 
+created all avatars allowed to it at that moment. If this has happened, the spell fails and 
+the priests are drained as described below.
+If the spell succeeds, the priests have completely given their wills over to their deity, 
+essentially forming the vessel into which it funnels power. In becoming the avatar, the 
+priests retain the ability to make most of their own decisions. (The six must work in 
+harmony or allow one of their number to decide all actions.) However, the deity can 
+assume direct control of the avatar at any time it desires--the avatar is, after all, an earthly 
+manifestation of the deity.
+Although the spell has a duration of one hour, the deity is not obliged to release the 
+priests at that time. If the priests are not released at the end of the spell's duration, they 
+instantly die. A deity can choose to sacrifice its priests in order to maintain its avatar on 
+the Prime Material plane. Such a cruel and unjust action is almost never undertaken by 
+good deities or those that have any respect for life, free will, or mercy. For dark and 
+sinister gods, the question is much more uncertain. If a deity chooses to maintain the 
+avatar longer than one hour, control of the avatar instantly and permanently passes to the 
+DM. (Clearly, a DM should seldom if ever exercise this power.)
+While the priests are formed into the avatar, their bodies remain in a death like trance. 
+The priests have no idea what might be happening to their real bodies (unless the avatar 
+can observe them). Any damage to a priest's body requires an instant system shock roll. If 
+successful, the damage is recorded normally, but the damage does not take effect until the 
+spell ends (at which point the priest will almost certainly die). If the system shock roll is 
+failed, the character instantly dies and the spell ends. Characters who die in this manner 
+cannot be raised, resurrected, or reincarnated. They have been taken to the ultimate 
+reward (or punishment) for the service they have rendered. If the bodies are moved from 
+their positions, the spell ends.
+Even if the deity releases the priests, they are left severely drained. All spells 
+memorized are lost until the priest can rest and perform his prayers once again. The 
+physical drain leaves each priest with only 1 hit point upon awakening, regardless of the 
+number of hit points the character had when the spell was cast. Since damage suffered 
+during the spell takes effect instantly, any priest who is hurt dies immediately (although 
+quick action by others might save him).
+Each priest who survives the spell will be bound by a quest (a duty that must be 
+completed in exchange for calling upon their god).
+The material component is an offering appropriate to the deity. The DM determines 
+the exact nature of this offering. 
+
+ Succor
+(Alteration, Enchantment)
+Reversible
+Sphere: Summoning
+Range: Touch Components: V, S, M
+Duration: Special Casting Time: 1 day
+Area of Effect: 1 person Saving Throw: None
+By casting this spell, the priest creates a powerful magic aura in some specially
+prepared object--a string of prayer beads, a small clay tablet, an ivory baton, etc. This
+object radiates magic, for it contains the power to instantaneously transport its possessor
+to the sanctuary of the priest who created its magic. Once the item is enchanted, the priest
+must give it willingly to an individual, at the same time informing him of a command
+word to be spoken when the item is to be used. To make use of the item, the recipient
+must speak the command word at the same time that he rends or breaks the item. When
+this is done, the individual and all that he is wearing and carrying (up to the maximum
+encumbrance limit for the character) are instantly transported to the sanctuary of the
+priest, just as if the individual were capable of speaking a word of recall spell. No other
+creatures can be affected.
+The reversed application of the spell causes the priest to be transported to the
+immediate vicinity of the possessor of the item when it is broken and the command word
+said. The priest has a general idea of the location and situation of the item's possessor,
+and can choose not to be affected by this summons. This decision is made at the instant
+when the transportation is to take place. However, if he chooses not to go, the opportunity
+is gone forever and the spell is wasted.
+The cost of preparing the special item (for either version of the spell) varies from 2,000
+to 5,000 gp. The more costly items can transport the subject from one plane of existence
+to another, if the DM allows. Note that the same factors that can prevent the operation of
+the plane shift and teleport spells can also prevent the use of this spell.
+
+ Sunray
+(Evocation, Alteration)
+Sphere: Sun
+Range: 10 yds./level Components: V, S, M
+Duration: 1+1d4 rds. Casting Time: 4
+Area of Effect: 5-ft. radius (special) Saving Throw: Special
+With this spell, the caster can evoke a dazzling beam of light each round in which no
+action other than movement is performed. The sunray is like a ray of natural sunlight. All
+creatures in the 10-foot-diameter area of effect must roll successful saving throws vs.
+spell or be blinded for 1d3 rounds, those using infravision at the time for 2d4 rounds.
+Creatures to whom sunlight is harmful or unnatural suffer permanent blindness if the
+saving throw is failed, and are blinded for 2d6 rounds if the saving throw is successful.
+Those within its area of effect, as well as creatures within 20 feet of its perimeter, lose
+any infravision capabilities for 1d4+1 rounds.
+Undead caught within the sunray's area of effect receive 8d6 points of damage, one-half
+ if a saving throw vs. spell is successful. Those undead 20 feet to either side of the
+sunray's area of effect receive 3d6 points of damage, no damage if a save is successful. In
+addition, the ray may result in the total destruction of those undead specifically affected
+by sunlight, if their saving throws are failed. The ultraviolet light generated by the spell
+inflicts damage on fungoid creatures and subterranean fungi just as if they were undead,
+but no saving throw is allowed.
+The material components are an aster seed and a piece of adventuring feldspar
+(sunstone).
+
+ Symbol
+(Conjuration/Summoning)
+Sphere: Guardian
+Range: Touch Components: V, S, M
+Duration: 1 turn/level Casting Time: 3
+Area of Effect: 60 ft. radius Saving Throw: Neg.
+The priest casting this spell inscribes a glowing symbol in the air upon any surface,
+according to his desire. Any creature looking at the completed symbol within 60 feet
+must roll a successful saving throw vs. spell or suffer the effect. The symbol glows for
+one turn for each experience level of the caster. The particular symbol used is selected by
+the caster at the time of casting. The caster will not be affected by his own symbol. One
+of the following effects is chosen by the caster:
+
+Hopelessness: Creatures seeing it must turn back in dejection or surrender to capture or
+attack unless they roll successful saving throws vs. spell. Its effects last for 3d4 turns.
+
+Pain: Creatures affected suffer -4 penalties to their attack rolls and -2 penalties to their
+Dexterity ability scores due to wracking pains. The effects last for 2d10 turns.
+
+Persuasion: Creatures seeing the symbol become of the same alignment as and friendly
+to the priest who scribed the symbol for 1d20 turns unless a saving throw vs. spell is
+successful.
+
+The material components of this spell are mercury and phosphorous (see 8th-level
+wizard spell, symbol).
+
+ Tentacle Walls (Enchantment) 
+Sphere: Wards
+Range: Touch
+Components: V, S, M
+Duration: Special
+Casting Time: 1 round
+Area of Effect: 50-foot cube
+Saving Throw: None
+Tentacle walls enables the caster to enchant a single room whose volume is less than 
+or equal to the area of effect. The spell activates 1d4 rounds after any creature other than 
+the caster enters the room. The intruder must be larger than a normal rat; that is, it must 
+be larger than one-half cubic foot or weigh more than three pounds.
+When the spell is activated, six black, leathery tentacles sprout inside the room; the 
+tentacles are evenly divided among the room's surfaces (for instance, if the room is a 
+cube, one tentacle sprouts from the floor, one sprouts from the ceiling, and one sprouts 
+from each of the four walls).
+The whip-like tentacles grow to the length of the room and swing wildly. Each round, 
+a tentacle has a 30% chance of striking a random creature in the room, inflicting 1d6 
+points of damage (save vs. spell for half damage). Each tentacle has AC 0 and 25 hit 
+points. When a tentacle is reduced to 0 hit points, it disappears in a puff of black smoke.
+If all creatures are killed or withdraw from the room, the surviving tentacles 
+withdraw, disappearing into the walls. If the spell is activated again, six tentacles 
+reappear; new tentacles are created to replace any destroyed previously. As long as one 
+tentacle survives an encounter, the tentacles will continue to be replaced. Only when all 
+six tentacles are destroyed is the spell permanently negated.
+The material component is the dried tentacle of an octopus. 
+
+ Timelessness (Alteration) 
+Sphere: Numbers
+Range: Touch
+Components: V, S, M
+Duration: 1 day/level
+Casting Time: 7
+Area of Effect: One creature
+Saving Throw: Neg.
+This spell totally stops the flow of time for a single individual. All signs of life stop 
+and the subject is incapable of any movement or thought. While the spell is in effect, the 
+subject is totally immovable and cannot be affected by any physical or magical forces. 
+Weapons simply bounce off the subject as they would bounce off the hardest stone. 
+Spells, including dispel magic, are totally incapable of affecting the subject in any way. 
+The subject does not age.
+Aside from the fact that the subject remains visible, frozen in place like a statue, he is 
+effectively no longer part of the universe. (DMs may rule that the most powerful of 
+magics, such as wishes, and creatures of demigod or higher status can affect the subject.)
+When the priest casts the spell, he or she states the duration for which the spell will 
+remain in effect (the maximum is one full day per level of the caster). Once the spell is 
+cast, this duration cannot be changed; the priest cannot terminate the spell before the 
+stated time has elapsed.
+If the subject is unwilling to be affected by the spell, the priest must touch the victim 
+for the spell to take effect; the subject receives a normal saving throw to resist the effects. 
+A willing subject need not make a saving throw.
+The priest may cast this spell on himself if desired. This spell can provide a powerful 
+defensive maneuver; while the spell is in effect, the subject is totally invulnerable. 
+Timelessness is also an effective form of long-term imprisonment, as long as the priest is 
+around to cast the spell again at the appropriate time.
+This is an exceptionally powerful spell. Casting it puts a significant strain on the 
+priest. Each time he casts timelessness, the priest must make a system shock roll. If the 
+priest fails this throw, he or she permanently loses 1 point of Constitution.
+The material components are a gem worth at least 1,000 gp and a small cylinder of 
+obsidian. Both are crushed during the casting. 
+
+ Tree Spirit (Necromancy)
+Sphere: Plant
+Range: Touch
+Components: V, S
+Duration: Permanent
+Casting Time: 1 turn
+Area of Effect: 1 tree
+Saving Throw: None
+Tree spirit permanently links the soul of the caster with a tree, usually chosen 
+carefully for its health, vigor, and remote environment. Casting this spell joins the life 
+force of the druid with that of the tree; as long as the tree lives, the caster ages at one tenth
+ the normal rate. (Because the spell causes the tree to devote all its energy to 
+maintaining health rather than growth, it always remains exactly the size it was at the 
+time of casting.) Moreover, the caster's spirit merges with the tree at the character's death. 
+No form of reincarnation or resurrection (except a wish) on the character's body will 
+work unless it lies within 10 feet of the tree.
+One year after the caster dies, the druid's spirit animates the tree as a treant. (DMs 
+should roll up treant statistics for the tree at the time the spell is cast, to determine the 
+tree's Armor Class, Hit Dice, etc.) The chosen tree must be of treant height; the exact size 
+determines the size of the new treant, which possesses the caster's memories and 
+personality but has no granted powers or spellcasting ability. It must communicate as a 
+treant. 
+The DM decides whether to consider this treant an NPC or allow the player to 
+control it. (DMs should use the guidelines that apply to PCs who become lycanthropes or 
+undead.)
+However, when a druid uses tree spirit to link with a tree, the character suffers any 
+physical damage inflicted on the tree. For instance, if someone hacks at the tree with an 
+axe and causes 4 points of damage, the caster also loses 4 hit points; the druid knows the 
+tree has been harmed, but does not know the nature of the injury. 
+If the tree dies but does not sustain enough damage to kill the caster, the character 
+feels stunned for 1d6 rounds and must make a successful system shock roll to avoid 
+death. Spells that heal the druid do not affect the tree.
+Damage to the caster does not affect the tree, as the extra energy the tree expends on 
+strength and health makes any damage the player sustains negligible to the tree. 
+However, it's usually in the druid's best interest to have an animal friend or two guard the 
+tree. 
+In addition, the druid should choose the tree carefully; if the surrounding land is 
+cleared for construction work or lumber before the druid's prolonged life span finally 
+ends, the character is in trouble.
+Casting tree spirit first requires a full month's preparation. The druid lives near the 
+tree during this time of prayer and mediation. Then the character conducts a private 
+bonding ceremony at the height of a solstice. This spell often is cast by ancient druids, 
+who wish to preserve their wisdom or make sure their groves remain defended even after 
+their death.
+
+ Transmute Metal to Wood
+(Alteration)
+Sphere: Elemental (Earth)
+Range: 80 yds. Components: V, S, M
+Duration: Permanent Casting Time: 1 rd.
+Area of Effect: 1 metal object Saving Throw: Special
+The transmute metal to wood spell enables the caster to change an object from metal to
+wood. The volume of metal cannot exceed a maximum weight of 10 pounds per
+experience level of the priest. Magical objects made of metal are 90% resistant to the
+spell, and those on the person of a creature receive the creature's saving throw as well.
+Artifacts and relics cannot be transmuted. Note that only a wish spell or similar magic can
+restore a transmuted object to its metallic state. Otherwise, for example, a metal door
+changed to wood would be forevermore a wooden door.
+
+ Wind Walk
+(Alteration)
+Sphere: Elemental (Air)
+Range: Touch Components: V, S, M
+Duration: 1 hour/level Casting Time: 1 rd.
+Area of Effect: Caster + 1 person/8 levels Saving Throw: None
+This spell enables the priest (and possibly one or two other persons) to alter the
+substance of his body to a cloudlike vapor. A magical wind then wafts the priest along at
+a movement rate of 60, or as slow as 6, as the spellcaster wills. The wind walk spell lasts
+as long as the priest desires, up to a maximum duration of six turns (one hour) per
+experience level of the caster. For every eight levels of experience the priest has attained,
+up to 24, he is able to touch another person and carry that person, or those persons, along
+on the wind walk. Persons wind walking are not invisible, but rather appear misty and
+translucent. If fully clothed in white, they are 80% likely to be mistaken for clouds, fog,
+vapors, etc. The priest can regain his physical form as desired, each change to and from
+vaporous form requiring five rounds. While in vaporous form, the priest and companions
+are hit only by magic or magical weaponry, though they may be subject to high winds at
+the DM's discretion. No spellcasting is possible in vaporous form.
+The material components of this spell are fire and holy water.
+
+ Uncontrolled Weather (Conjuration/Summoning) 
+Sphere: Chaos
+Range: 0
+Components: V, S
+Duration: 1 turn/level
+Casting Time: 1 turn
+Area of Effect: 4d4 square miles
+Saving Throw: None
+This spell allows the caster to summon weather that is either appropriate or 
+inappropriate to the climate and season of the region. The summoned effects are always 
+dramatic--cool breezes or light fog will not appear. Instead, torrential floods will assault a 
+desert, a heat wave will rage in polar wastelands, and tornadoes and hurricanes will rip 
+across gentle landscapes. A blizzard might spring up in summer or a tornado might 
+materialize in the winter.
+The spellcaster has no influence over the weather pattern that emerges. He cannot 
+control the area of effect or the duration of the weather.
+Four turns after the spell is cast, the trend of the weather will become apparent--a 
+sudden chill, gust of wind, overcast sky, etc. The uncontrolled weather arrives on the fifth 
+turn. Once the weather has arrived, it cannot be dispelled. If the spell is canceled by the 
+caster before the beginning of the fifth turn, the weather slowly reverts to its original 
+condition.
+The effects of the spell are the decision of the DM. The effects should be grand and 
+impressive. Following are suggested effects of the weather.
+Torrential Rain/Blizzard: Visibility is reduced to 100 yards or less; travel is nearly 
+impossible due to water or heavy snow on the ground.
+Storm/Hurricanes: All flying creatures are driven from the skies; trees are uprooted; 
+roofs are torn off; ships are endangered.
+Heat Wave: Intense heat immediately causes ice bridges to melt; avalanches of snow 
+and ice roll down mountains.
+The DM determines the area of effect randomly. The maximum duration of the spell 
+is one turn per level of the caster; however, the DM may cancel the effect after a shorter 
+time. 
+
+ Unwilling Wood (Enchantment/Charm)
+Sphere: Plant
+Range: 5 yards/level of caster
+Components: V, S, M
+Duration: Permanent
+Casting Time: 1 round
+Area of Effect: 10-yard radius
+Saving Throw: Special
+A caster can transform one or more living creatures within a 10-yard radius into 
+unwilling wood, causing them to sprout roots, branches, and leaves. The victims become 
+trees of a type native to the region and of the characters' age before the transformation. 
+The spell works only if cast on beings occupying ground that could support a tree; 
+recipients flying or suspended in water at the time of casting remain unaffected.
+This spell can mutate a number of creatures equal in total Hit Dice (or levels) to the 
+caster's level within the area of effect, of course. If this area holds a group of creatures 
+with Hit Dice (or levels) totaling a number greater than the caster's experience level, the 
+character may decide the order in which the creatures become affected.
+For instance, say a 14th-level druid casts unwilling wood into a target area 
+containing a giant with 12 Hit Dice and two 3rd-level warriors. The druid can transform 
+either the giant or two warriors, but not all three. "Leftover" Hit Dice or levels are lost.
+Each creature affected may attempt to save vs. polymorph. The spell mutates all 
+those failing their saving throw, along with any items they carry. A new tree has a height 
+of 5 feet per level (or Hit Die) of the victim. The effect is permanent; a person 
+transformed into a tree ages as a tree and dies as a tree. However, affected characters 
+retain awareness, memories, personality, and intelligence. Only damage severe enough to 
+kill the tree can kill an unwilling wood victim.
+Tree-characters can return to normal if a spellcaster of greater level than the original 
+caster uses remove curse. The original caster can release a transformed entity at will.
+The material components are a bit of tree root and the priest's holy symbol.
